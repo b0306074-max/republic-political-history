@@ -1,0 +1,7480 @@
+{
+  "version": "0.2",
+  "domains": {
+    "party": "中央党务",
+    "state": "国家政务",
+    "military": "军事领导"
+  },
+  "people": {
+    "毛泽东": {
+      "events": [],
+      "roles": [
+        {
+          "domain": "party",
+          "title": "中共中央主席",
+          "tier": 1,
+          "start": "1949-10-01",
+          "end": "1956-09-28",
+          "uncertain": null,
+          "sources": [
+            "p7"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "七届中央政治局委员",
+          "tier": 5,
+          "start": "1949-10-01",
+          "end": "1956-09-28",
+          "uncertain": null,
+          "sources": [
+            "p7"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "七届中央委员会委员",
+          "tier": 8,
+          "start": "1949-10-01",
+          "end": "1956-09-28",
+          "uncertain": null,
+          "sources": [
+            "p7"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "中共中央主席",
+          "tier": 1,
+          "start": "1956-09-28",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央政治局常委",
+          "tier": 4,
+          "start": "1956-09-28",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央政治局委员",
+          "tier": 5,
+          "start": "1956-09-28",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央委员会委员",
+          "tier": 8,
+          "start": "1956-09-28",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "中共中央主席",
+          "tier": 1,
+          "start": "1969-04-28",
+          "end": "1973-08-30",
+          "uncertain": null,
+          "sources": [
+            "p9"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "九届中央政治局委员",
+          "tier": 5,
+          "start": "1969-04-28",
+          "end": "1973-08-30",
+          "uncertain": null,
+          "sources": [
+            "p9"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "九届中央委员会委员",
+          "tier": 8,
+          "start": "1969-04-28",
+          "end": "1973-08-30",
+          "uncertain": null,
+          "sources": [
+            "p9"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "中共中央主席",
+          "tier": 1,
+          "start": "1973-08-30",
+          "end": "1976-09-09",
+          "uncertain": null,
+          "sources": [
+            "p10"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十届中央政治局委员",
+          "tier": 5,
+          "start": "1973-08-30",
+          "end": "1977-08-19",
+          "uncertain": null,
+          "sources": [
+            "p10"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十届中央委员会委员",
+          "tier": 8,
+          "start": "1973-08-30",
+          "end": "1977-08-19",
+          "uncertain": null,
+          "sources": [
+            "p10"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "中央人民政府主席",
+          "tier": 1,
+          "start": "1949-10-01",
+          "end": "1954-09-27",
+          "uncertain": null,
+          "sources": [
+            "head",
+            "gov49"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "中华人民共和国主席",
+          "tier": 1,
+          "start": "1954-09-27",
+          "end": "1959-04-27",
+          "uncertain": null,
+          "sources": [
+            "head",
+            "c54"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "人民革命军事委员会主席",
+          "tier": 1,
+          "start": "1949-10-01",
+          "end": "1954-09-28",
+          "uncertain": null,
+          "sources": [
+            "c49",
+            "c54"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "中央军委主席",
+          "tier": 1,
+          "start": "1954-09-28",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "c54",
+            "p8"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "中央军委主席",
+          "tier": 1,
+          "start": "1969-04-28",
+          "end": "1976-09-09",
+          "uncertain": null,
+          "sources": [
+            "p9"
+          ]
+        }
+      ],
+      "legacy": [
+        {
+          "date": "1949-10-01",
+          "label": "中共中央主席",
+          "category": "主席"
+        },
+        {
+          "date": "1956-09-28",
+          "label": "八届中央主席",
+          "category": "主席"
+        },
+        {
+          "date": "1969-04-28",
+          "label": "九届中央主席",
+          "category": "主席"
+        },
+        {
+          "date": "1976-09-09",
+          "label": "逝世。",
+          "category": "逝世"
+        }
+      ],
+      "death": "1976-09-09"
+    },
+    "刘少奇": {
+      "events": [],
+      "roles": [
+        {
+          "domain": "party",
+          "title": "七届中央书记处书记",
+          "tier": 4,
+          "start": "1949-10-01",
+          "end": "1956-09-28",
+          "uncertain": null,
+          "sources": [
+            "p7"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "七届中央政治局委员",
+          "tier": 5,
+          "start": "1949-10-01",
+          "end": "1956-09-28",
+          "uncertain": null,
+          "sources": [
+            "p7"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "七届中央委员会委员",
+          "tier": 8,
+          "start": "1949-10-01",
+          "end": "1956-09-28",
+          "uncertain": null,
+          "sources": [
+            "p7"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "中共中央副主席",
+          "tier": 3,
+          "start": "1956-09-28",
+          "end": "1966-08-12",
+          "uncertain": null,
+          "sources": [
+            "p8",
+            "p8a"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央政治局常委",
+          "tier": 4,
+          "start": "1956-09-28",
+          "end": "1968-10-31",
+          "uncertain": null,
+          "sources": [
+            "p8",
+            "hist"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央政治局委员",
+          "tier": 5,
+          "start": "1956-09-28",
+          "end": "1968-10-31",
+          "uncertain": null,
+          "sources": [
+            "p8",
+            "hist"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央委员会委员",
+          "tier": 8,
+          "start": "1956-09-28",
+          "end": "1968-10-31",
+          "uncertain": null,
+          "sources": [
+            "p8",
+            "hist"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "中央人民政府副主席",
+          "tier": 3,
+          "start": "1949-10-01",
+          "end": "1954-09-27",
+          "uncertain": null,
+          "sources": [
+            "head",
+            "gov49"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "中华人民共和国主席",
+          "tier": 1,
+          "start": "1959-04-27",
+          "end": "1968-10-31",
+          "uncertain": null,
+          "sources": [
+            "head",
+            "hist"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "全国人大常委会委员长",
+          "tier": 1,
+          "start": "1954-09-27",
+          "end": "1959-04-27",
+          "uncertain": null,
+          "sources": [
+            "npc"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "人民革命军事委员会副主席",
+          "tier": 2,
+          "start": "1949-10-19",
+          "end": "1954-09-28",
+          "uncertain": null,
+          "sources": [
+            "c49",
+            "mil49"
+          ]
+        }
+      ],
+      "legacy": [
+        {
+          "date": "1949-10-01",
+          "label": "七届中央书记处书记",
+          "category": "核心书记"
+        },
+        {
+          "date": "1956-09-28",
+          "label": "八届中央副主席",
+          "category": "副主席"
+        },
+        {
+          "date": "1966-08-12",
+          "label": "八届十一中全会后地位下降",
+          "category": "受冲击"
+        },
+        {
+          "date": "1968-10-31",
+          "label": "八届十二中全会决定开除党籍",
+          "category": "撤职"
+        },
+        {
+          "date": "1969-11-12",
+          "label": "逝世。",
+          "category": "逝世"
+        }
+      ],
+      "death": "1969-11-12"
+    },
+    "周恩来": {
+      "events": [],
+      "roles": [
+        {
+          "domain": "party",
+          "title": "七届中央书记处书记",
+          "tier": 4,
+          "start": "1949-10-01",
+          "end": "1956-09-28",
+          "uncertain": null,
+          "sources": [
+            "p7"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "七届中央政治局委员",
+          "tier": 5,
+          "start": "1949-10-01",
+          "end": "1956-09-28",
+          "uncertain": null,
+          "sources": [
+            "p7"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "七届中央委员会委员",
+          "tier": 8,
+          "start": "1949-10-01",
+          "end": "1956-09-28",
+          "uncertain": null,
+          "sources": [
+            "p7"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "中共中央副主席",
+          "tier": 3,
+          "start": "1956-09-28",
+          "end": "1966-08-12",
+          "uncertain": null,
+          "sources": [
+            "p8",
+            "p8a"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央政治局常委",
+          "tier": 4,
+          "start": "1956-09-28",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央政治局委员",
+          "tier": 5,
+          "start": "1956-09-28",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央委员会委员",
+          "tier": 8,
+          "start": "1956-09-28",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "九届中央政治局常委",
+          "tier": 4,
+          "start": "1969-04-28",
+          "end": "1973-08-30",
+          "uncertain": null,
+          "sources": [
+            "p9"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "九届中央政治局委员",
+          "tier": 5,
+          "start": "1969-04-28",
+          "end": "1973-08-30",
+          "uncertain": null,
+          "sources": [
+            "p9"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "九届中央委员会委员",
+          "tier": 8,
+          "start": "1969-04-28",
+          "end": "1973-08-30",
+          "uncertain": null,
+          "sources": [
+            "p9"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "中共中央副主席",
+          "tier": 3,
+          "start": "1973-08-30",
+          "end": "1977-08-19",
+          "uncertain": null,
+          "sources": [
+            "p10"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十届中央政治局委员",
+          "tier": 5,
+          "start": "1973-08-30",
+          "end": "1977-08-19",
+          "uncertain": null,
+          "sources": [
+            "p10"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十届中央委员会委员",
+          "tier": 8,
+          "start": "1973-08-30",
+          "end": "1977-08-19",
+          "uncertain": null,
+          "sources": [
+            "p10"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "中央人民政府委员会委员",
+          "tier": 6,
+          "start": "1949-10-01",
+          "end": "1954-09-27",
+          "uncertain": null,
+          "sources": [
+            "gov49"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "政务院总理",
+          "tier": 1,
+          "start": "1949-10-01",
+          "end": "1954-09-27",
+          "uncertain": null,
+          "sources": [
+            "c49"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "国务院总理",
+          "tier": 1,
+          "start": "1954-09-27",
+          "end": "1976-01-08",
+          "uncertain": null,
+          "sources": [
+            "g1",
+            "g2",
+            "g3",
+            "g4"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "人民革命军事委员会副主席",
+          "tier": 2,
+          "start": "1949-10-19",
+          "end": "1954-09-28",
+          "uncertain": null,
+          "sources": [
+            "c49",
+            "mil49"
+          ]
+        }
+      ],
+      "legacy": [
+        {
+          "date": "1949-10-01",
+          "label": "七届中央书记处书记、政务院总理",
+          "category": "核心书记"
+        },
+        {
+          "date": "1956-09-28",
+          "label": "八届政治局常委、国务院总理",
+          "category": "常委"
+        },
+        {
+          "date": "1969-04-28",
+          "label": "九届政治局常委",
+          "category": "常委"
+        },
+        {
+          "date": "1973-08-30",
+          "label": "十届政治局常委",
+          "category": "常委"
+        },
+        {
+          "date": "1976-01-08",
+          "label": "逝世。",
+          "category": "逝世"
+        }
+      ],
+      "death": "1976-01-08"
+    },
+    "朱德": {
+      "events": [],
+      "roles": [
+        {
+          "domain": "party",
+          "title": "七届中央书记处书记",
+          "tier": 4,
+          "start": "1949-10-01",
+          "end": "1956-09-28",
+          "uncertain": null,
+          "sources": [
+            "p7"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "七届中央政治局委员",
+          "tier": 5,
+          "start": "1949-10-01",
+          "end": "1956-09-28",
+          "uncertain": null,
+          "sources": [
+            "p7"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "七届中央委员会委员",
+          "tier": 8,
+          "start": "1949-10-01",
+          "end": "1956-09-28",
+          "uncertain": null,
+          "sources": [
+            "p7"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "中共中央副主席",
+          "tier": 3,
+          "start": "1956-09-28",
+          "end": "1966-08-12",
+          "uncertain": null,
+          "sources": [
+            "p8",
+            "p8a"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央政治局常委",
+          "tier": 4,
+          "start": "1956-09-28",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央政治局委员",
+          "tier": 5,
+          "start": "1956-09-28",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央委员会委员",
+          "tier": 8,
+          "start": "1956-09-28",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "九届中央政治局委员",
+          "tier": 5,
+          "start": "1969-04-28",
+          "end": "1973-08-30",
+          "uncertain": null,
+          "sources": [
+            "p9"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "九届中央委员会委员",
+          "tier": 8,
+          "start": "1969-04-28",
+          "end": "1973-08-30",
+          "uncertain": null,
+          "sources": [
+            "p9"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十届中央政治局常委",
+          "tier": 4,
+          "start": "1973-08-30",
+          "end": "1977-08-19",
+          "uncertain": null,
+          "sources": [
+            "p10"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十届中央政治局委员",
+          "tier": 5,
+          "start": "1973-08-30",
+          "end": "1977-08-19",
+          "uncertain": null,
+          "sources": [
+            "p10"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十届中央委员会委员",
+          "tier": 8,
+          "start": "1973-08-30",
+          "end": "1977-08-19",
+          "uncertain": null,
+          "sources": [
+            "p10"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "中央人民政府副主席",
+          "tier": 3,
+          "start": "1949-10-01",
+          "end": "1954-09-27",
+          "uncertain": null,
+          "sources": [
+            "head",
+            "gov49"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "中华人民共和国副主席",
+          "tier": 3,
+          "start": "1954-09-27",
+          "end": "1959-04-27",
+          "uncertain": null,
+          "sources": [
+            "head",
+            "c54"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "全国人大常委会委员长",
+          "tier": 1,
+          "start": "1959-04-27",
+          "end": "1978-03-05",
+          "uncertain": null,
+          "sources": [
+            "npc"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "人民革命军事委员会副主席",
+          "tier": 2,
+          "start": "1949-10-19",
+          "end": "1954-09-28",
+          "uncertain": null,
+          "sources": [
+            "c49",
+            "mil49"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "中央军委委员",
+          "tier": 4,
+          "start": "1954-09-28",
+          "end": "1959-09-26",
+          "uncertain": null,
+          "sources": [
+            "c54",
+            "p7"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "中央军委常委",
+          "tier": 3,
+          "start": "1959-09-26",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8",
+            "c59"
+          ]
+        }
+      ],
+      "legacy": [
+        {
+          "date": "1949-10-01",
+          "label": "七届中央书记处书记",
+          "category": "核心书记"
+        },
+        {
+          "date": "1956-09-28",
+          "label": "中央副主席、政治局常委",
+          "category": "副主席"
+        },
+        {
+          "date": "1969-04-28",
+          "label": "九届政治局委员",
+          "category": "政治局委员"
+        },
+        {
+          "date": "1973-08-30",
+          "label": "十届政治局常委",
+          "category": "常委"
+        },
+        {
+          "date": "1976-07-06",
+          "label": "逝世。",
+          "category": "逝世"
+        }
+      ],
+      "death": "1976-07-06"
+    },
+    "任弼时": {
+      "events": [],
+      "roles": [
+        {
+          "domain": "party",
+          "title": "七届中央书记处书记",
+          "tier": 4,
+          "start": "1949-10-01",
+          "end": "1956-09-28",
+          "uncertain": null,
+          "sources": [
+            "p7"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "七届中央政治局委员",
+          "tier": 5,
+          "start": "1949-10-01",
+          "end": "1956-09-28",
+          "uncertain": null,
+          "sources": [
+            "p7"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "七届中央委员会委员",
+          "tier": 8,
+          "start": "1949-10-01",
+          "end": "1956-09-28",
+          "uncertain": null,
+          "sources": [
+            "p7"
+          ]
+        }
+      ],
+      "legacy": [
+        {
+          "date": "1949-10-01",
+          "label": "七届中央书记处书记",
+          "category": "核心书记"
+        },
+        {
+          "date": "1950-10-27",
+          "label": "逝世。",
+          "category": "逝世"
+        }
+      ],
+      "death": "1950-10-27"
+    },
+    "高岗": {
+      "events": [],
+      "roles": [
+        {
+          "domain": "party",
+          "title": "七届中央政治局委员",
+          "tier": 5,
+          "start": "1949-10-01",
+          "end": "1956-09-28",
+          "uncertain": null,
+          "sources": [
+            "p7"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "七届中央委员会委员",
+          "tier": 8,
+          "start": "1949-10-01",
+          "end": "1956-09-28",
+          "uncertain": null,
+          "sources": [
+            "p7"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "中央人民政府副主席",
+          "tier": 3,
+          "start": "1949-10-01",
+          "end": "1954-09-27",
+          "uncertain": null,
+          "sources": [
+            "head",
+            "gov49"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "人民革命军事委员会委员",
+          "tier": 4,
+          "start": "1949-10-19",
+          "end": "1954-09-28",
+          "uncertain": null,
+          "sources": [
+            "mil49"
+          ]
+        }
+      ],
+      "legacy": [
+        {
+          "date": "1949-10-01",
+          "label": "七届政治局委员、东北局第一书记",
+          "category": "政治局委员"
+        },
+        {
+          "date": "1952-11",
+          "label": "国家计委主席（1952年任）",
+          "category": "政治局委员"
+        },
+        {
+          "date": "1954-02",
+          "label": "高饶事件中受到批判",
+          "category": "受冲击"
+        },
+        {
+          "date": "1954-08-17",
+          "label": "逝世。",
+          "category": "逝世"
+        }
+      ],
+      "death": "1954-08-17"
+    },
+    "饶漱石": {
+      "events": [
+        {
+          "date": "1955-03",
+          "label": "七届中央委员会委员名录所载任期终止。",
+          "sources": [
+            "p7"
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "domain": "party",
+          "title": "七届中央委员会委员",
+          "tier": 8,
+          "start": "1949-10-01",
+          "end": "1955-03",
+          "uncertain": null,
+          "sources": [
+            "p7"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "中央人民政府委员会委员",
+          "tier": 6,
+          "start": "1949-10-01",
+          "end": "1954-09-27",
+          "uncertain": null,
+          "sources": [
+            "gov49"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "人民革命军事委员会委员",
+          "tier": 4,
+          "start": "1949-10-19",
+          "end": "1954-09-28",
+          "uncertain": null,
+          "sources": [
+            "mil49"
+          ]
+        }
+      ],
+      "legacy": [
+        {
+          "date": "1949-10-01",
+          "label": "华东局第一书记、中央委员",
+          "category": "中央委员"
+        },
+        {
+          "date": "1952-11",
+          "label": "中央组织部部长（1952年任）",
+          "category": "中央委员"
+        },
+        {
+          "date": "1954-02",
+          "label": "高饶事件中受到批判",
+          "category": "受冲击"
+        },
+        {
+          "date": "1955-03",
+          "label": "被开除党籍，此后长期关押",
+          "category": "撤职"
+        }
+      ]
+    },
+    "陈云": {
+      "events": [
+        {
+          "date": "1958-06-10",
+          "label": "中共中央设立财经小组，陈云任组长。",
+          "sources": [
+            "groups"
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "domain": "party",
+          "title": "七届中央书记处书记",
+          "tier": 4,
+          "start": "1950-10",
+          "end": "1956-09-28",
+          "uncertain": null,
+          "sources": [
+            "p7"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "七届中央政治局委员",
+          "tier": 5,
+          "start": "1949-10-01",
+          "end": "1956-09-28",
+          "uncertain": null,
+          "sources": [
+            "p7"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "七届中央委员会委员",
+          "tier": 8,
+          "start": "1949-10-01",
+          "end": "1956-09-28",
+          "uncertain": null,
+          "sources": [
+            "p7"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "中共中央副主席",
+          "tier": 3,
+          "start": "1956-09-28",
+          "end": "1966-08-12",
+          "uncertain": null,
+          "sources": [
+            "p8",
+            "p8a"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央政治局常委",
+          "tier": 4,
+          "start": "1956-09-28",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央政治局委员",
+          "tier": 5,
+          "start": "1956-09-28",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央委员会委员",
+          "tier": 8,
+          "start": "1956-09-28",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "九届中央委员会委员",
+          "tier": 8,
+          "start": "1969-04-28",
+          "end": "1973-08-30",
+          "uncertain": null,
+          "sources": [
+            "p9"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十届中央委员会委员",
+          "tier": 8,
+          "start": "1973-08-30",
+          "end": "1977-08-19",
+          "uncertain": null,
+          "sources": [
+            "p10"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "中共中央副主席",
+          "tier": 3,
+          "start": "1978-12-22",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "p11",
+            "hist"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十一届中央政治局委员",
+          "tier": 5,
+          "start": "1978-12-22",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "p11",
+            "hist"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十一届中央委员会委员",
+          "tier": 8,
+          "start": "1977-08-19",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "p11"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "中央人民政府委员会委员",
+          "tier": 6,
+          "start": "1949-10-01",
+          "end": "1954-09-27",
+          "uncertain": null,
+          "sources": [
+            "gov49"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "政务院副总理",
+          "tier": 3,
+          "start": "1949-10-19",
+          "end": "1954-09-27",
+          "uncertain": null,
+          "sources": [
+            "c49"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "全国人大常委会副委员长",
+          "tier": 3,
+          "start": "1975-01-17",
+          "end": "1978-03-05",
+          "uncertain": null,
+          "sources": [
+            "npc"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "全国人大常委会副委员长",
+          "tier": 3,
+          "start": "1978-03-05",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "npc"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "国务院副总理",
+          "tier": 3,
+          "start": "1954-09-27",
+          "end": "1959-04-28",
+          "uncertain": null,
+          "sources": [
+            "g1"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "国务院副总理",
+          "tier": 3,
+          "start": "1959-04-28",
+          "end": "1965-01-04",
+          "uncertain": null,
+          "sources": [
+            "g2"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "国务院副总理",
+          "tier": 3,
+          "start": "1965-01-04",
+          "end": "1975-01-17",
+          "uncertain": null,
+          "sources": [
+            "g3"
+          ]
+        }
+      ],
+      "legacy": [
+        {
+          "date": "1949-10-01",
+          "label": "七届政治局委员，主持财经工作",
+          "category": "政治局委员"
+        },
+        {
+          "date": "1956-09-28",
+          "label": "中央副主席、政治局常委",
+          "category": "副主席"
+        },
+        {
+          "date": "1969-04-28",
+          "label": "九届中央委员，未进入政治局",
+          "category": "中央委员"
+        },
+        {
+          "date": "1978-12-22",
+          "label": "十一届三中全会增选中央副主席、政治局常委",
+          "category": "副主席"
+        }
+      ]
+    },
+    "邓小平": {
+      "events": [
+        {
+          "date": "1977-07-21",
+          "label": "十届三中全会恢复其党政军各项原有职务。",
+          "sources": [
+            "hist"
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "domain": "party",
+          "title": "七届中央政治局委员",
+          "tier": 5,
+          "start": "1955-04",
+          "end": "1956-09-28",
+          "uncertain": null,
+          "sources": [
+            "p7"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "七届中央委员会委员",
+          "tier": 8,
+          "start": "1949-10-01",
+          "end": "1956-09-28",
+          "uncertain": null,
+          "sources": [
+            "p7"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央政治局常委",
+          "tier": 4,
+          "start": "1956-09-28",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央政治局委员",
+          "tier": 5,
+          "start": "1956-09-28",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央书记处书记",
+          "tier": 7,
+          "start": "1956-09-28",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央委员会委员",
+          "tier": 8,
+          "start": "1956-09-28",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "中共中央副主席",
+          "tier": 3,
+          "start": "1975-01-10",
+          "end": "1976-04-07",
+          "uncertain": null,
+          "sources": [
+            "p10",
+            "hist"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "中共中央副主席",
+          "tier": 3,
+          "start": "1977-07-21",
+          "end": "1977-08-19",
+          "uncertain": null,
+          "sources": [
+            "p10",
+            "hist"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十届中央政治局委员",
+          "tier": 5,
+          "start": "1973-12",
+          "end": "1976-04-07",
+          "uncertain": null,
+          "sources": [
+            "p10"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十届中央委员会委员",
+          "tier": 8,
+          "start": "1973-08-30",
+          "end": "1976-04-07",
+          "uncertain": null,
+          "sources": [
+            "p10",
+            "hist"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "中共中央副主席",
+          "tier": 3,
+          "start": "1977-08-19",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "p11"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十一届中央政治局委员",
+          "tier": 5,
+          "start": "1977-08-19",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "p11"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十一届中央委员会委员",
+          "tier": 8,
+          "start": "1977-08-19",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "p11"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "中央人民政府委员会委员",
+          "tier": 6,
+          "start": "1949-10-01",
+          "end": "1954-09-27",
+          "uncertain": null,
+          "sources": [
+            "gov49"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "政务院副总理",
+          "tier": 3,
+          "start": "1952-08-07",
+          "end": "1954-09-27",
+          "uncertain": null,
+          "sources": [
+            "deng"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "国务院副总理",
+          "tier": 3,
+          "start": "1954-09-27",
+          "end": "1959-04-28",
+          "uncertain": null,
+          "sources": [
+            "g1"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "国务院副总理",
+          "tier": 3,
+          "start": "1959-04-28",
+          "end": "1965-01-04",
+          "uncertain": null,
+          "sources": [
+            "g2"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "国务院副总理",
+          "tier": 3,
+          "start": "1965-01-04",
+          "end": "1975-01-17",
+          "uncertain": "1966-08",
+          "sources": [
+            "g3",
+            "hist"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "国务院副总理",
+          "tier": 3,
+          "start": "1973-03",
+          "end": "1975-01-17",
+          "uncertain": null,
+          "sources": [
+            "hist"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "国务院副总理",
+          "tier": 3,
+          "start": "1975-01-17",
+          "end": "1976-04-07",
+          "uncertain": null,
+          "sources": [
+            "g4",
+            "hist",
+            "p10"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "国务院副总理",
+          "tier": 3,
+          "start": "1977-07-21",
+          "end": "1978-03-05",
+          "uncertain": null,
+          "sources": [
+            "hist"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "国务院副总理",
+          "tier": 3,
+          "start": "1978-03-05",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "g5"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "人民革命军事委员会委员",
+          "tier": 4,
+          "start": "1949-10-19",
+          "end": "1954-09-28",
+          "uncertain": null,
+          "sources": [
+            "mil49"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "中央军委委员",
+          "tier": 4,
+          "start": "1954-09-28",
+          "end": "1959-09-26",
+          "uncertain": null,
+          "sources": [
+            "c54",
+            "p7"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "中央军委常委",
+          "tier": 3,
+          "start": "1959-09-26",
+          "end": "1968-10",
+          "uncertain": null,
+          "sources": [
+            "p8",
+            "c59"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "中央军委副主席",
+          "tier": 2,
+          "start": "1975-01-05",
+          "end": "1976-04-07",
+          "uncertain": null,
+          "sources": [
+            "hist",
+            "p9"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "中央军委副主席",
+          "tier": 2,
+          "start": "1977-07-21",
+          "end": "1977-08-19",
+          "uncertain": null,
+          "sources": [
+            "hist",
+            "p9"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "中央军委副主席",
+          "tier": 2,
+          "start": "1977-08-19",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "p11"
+          ]
+        }
+      ],
+      "legacy": [
+        {
+          "date": "1949-10-01",
+          "label": "中央委员、西南局第一书记",
+          "category": "中央委员"
+        },
+        {
+          "date": "1954-04",
+          "label": "中央秘书长（1954年）",
+          "category": "中央委员"
+        },
+        {
+          "date": "1956-09-28",
+          "label": "政治局常委、书记处总书记",
+          "category": "常委"
+        },
+        {
+          "date": "1966-08-12",
+          "label": "文革初期受到批判、失去正常履职",
+          "category": "受冲击"
+        },
+        {
+          "date": "1973-03",
+          "label": "恢复国务院副总理职务",
+          "category": "复出"
+        },
+        {
+          "date": "1975-01-10",
+          "label": "中共中央副主席、军委副主席、总参谋长",
+          "category": "副主席"
+        },
+        {
+          "date": "1976-04-07",
+          "label": "被撤销党内外一切职务",
+          "category": "撤职"
+        },
+        {
+          "date": "1977-07-21",
+          "label": "十届三中全会恢复原有职务",
+          "category": "副主席"
+        },
+        {
+          "date": "1978-12-22",
+          "label": "十一届三中全会时期中央副主席",
+          "category": "副主席"
+        }
+      ]
+    },
+    "薄一波": {
+      "events": [],
+      "roles": [
+        {
+          "domain": "party",
+          "title": "七届中央委员会委员",
+          "tier": 8,
+          "start": "1949-10-01",
+          "end": "1956-09-28",
+          "uncertain": null,
+          "sources": [
+            "p7"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央政治局候补委员",
+          "tier": 6,
+          "start": "1956-09-28",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央委员会委员",
+          "tier": 8,
+          "start": "1956-09-28",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "中央人民政府委员会委员",
+          "tier": 6,
+          "start": "1949-10-01",
+          "end": "1954-09-27",
+          "uncertain": null,
+          "sources": [
+            "gov49"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "国务院副总理",
+          "tier": 3,
+          "start": "1959-04-28",
+          "end": "1965-01-04",
+          "uncertain": null,
+          "sources": [
+            "g2"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "国务院副总理",
+          "tier": 3,
+          "start": "1965-01-04",
+          "end": "1975-01-17",
+          "uncertain": "1967-01",
+          "sources": [
+            "g3"
+          ]
+        }
+      ],
+      "legacy": [
+        {
+          "date": "1949-10-01",
+          "label": "中央委员、财政部部长",
+          "category": "中央委员"
+        },
+        {
+          "date": "1956-09-28",
+          "label": "八届中央候补委员、国家经委主任",
+          "category": "中央候补委员"
+        },
+        {
+          "date": "1967-01",
+          "label": "六十一人案中遭到迫害",
+          "category": "受冲击"
+        },
+        {
+          "date": "1978-12",
+          "label": "相关案件获得平反，恢复工作",
+          "category": "复出"
+        }
+      ]
+    },
+    "彭德怀": {
+      "events": [],
+      "roles": [
+        {
+          "domain": "party",
+          "title": "七届中央政治局委员",
+          "tier": 5,
+          "start": "1949-10-01",
+          "end": "1956-09-28",
+          "uncertain": null,
+          "sources": [
+            "p7"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "七届中央委员会委员",
+          "tier": 8,
+          "start": "1949-10-01",
+          "end": "1956-09-28",
+          "uncertain": null,
+          "sources": [
+            "p7"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央政治局委员",
+          "tier": 5,
+          "start": "1956-09-28",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央委员会委员",
+          "tier": 8,
+          "start": "1956-09-28",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "中央人民政府委员会委员",
+          "tier": 6,
+          "start": "1949-10-01",
+          "end": "1954-09-27",
+          "uncertain": null,
+          "sources": [
+            "gov49"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "国务院副总理",
+          "tier": 3,
+          "start": "1954-09-27",
+          "end": "1959-04-28",
+          "uncertain": null,
+          "sources": [
+            "g1"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "国务院副总理",
+          "tier": 3,
+          "start": "1959-04-28",
+          "end": "1965-01-04",
+          "uncertain": null,
+          "sources": [
+            "g2"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "人民革命军事委员会副主席",
+          "tier": 2,
+          "start": "1949-10-19",
+          "end": "1954-09-28",
+          "uncertain": null,
+          "sources": [
+            "c49",
+            "mil49"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "中央军委委员",
+          "tier": 4,
+          "start": "1954-09-28",
+          "end": "1959-09-26",
+          "uncertain": null,
+          "sources": [
+            "c54",
+            "p7"
+          ]
+        }
+      ],
+      "legacy": [
+        {
+          "date": "1949-10-01",
+          "label": "政治局委员、西北军政委员会主席",
+          "category": "政治局委员"
+        },
+        {
+          "date": "1956-09-28",
+          "label": "八届政治局委员、国防部长",
+          "category": "政治局委员"
+        },
+        {
+          "date": "1959-09-17",
+          "label": "被免去国防部长职务",
+          "category": "撤职"
+        },
+        {
+          "date": "1974-11-29",
+          "label": "逝世。",
+          "category": "逝世"
+        }
+      ],
+      "death": "1974-11-29"
+    },
+    "林彪": {
+      "events": [],
+      "roles": [
+        {
+          "domain": "party",
+          "title": "七届中央政治局委员",
+          "tier": 5,
+          "start": "1955-04",
+          "end": "1956-09-28",
+          "uncertain": null,
+          "sources": [
+            "p7"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "七届中央委员会委员",
+          "tier": 8,
+          "start": "1949-10-01",
+          "end": "1956-09-28",
+          "uncertain": null,
+          "sources": [
+            "p7"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "中共中央副主席",
+          "tier": 3,
+          "start": "1958-05",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8",
+            "p8a"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央政治局委员",
+          "tier": 5,
+          "start": "1956-09-28",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央委员会委员",
+          "tier": 8,
+          "start": "1956-09-28",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "中共中央副主席",
+          "tier": 3,
+          "start": "1969-04-28",
+          "end": "1971-09-13",
+          "uncertain": null,
+          "sources": [
+            "p9"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "九届中央政治局委员",
+          "tier": 5,
+          "start": "1969-04-28",
+          "end": "1973-08-30",
+          "uncertain": null,
+          "sources": [
+            "p9"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "九届中央委员会委员",
+          "tier": 8,
+          "start": "1969-04-28",
+          "end": "1973-08-30",
+          "uncertain": null,
+          "sources": [
+            "p9"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "中央人民政府委员会委员",
+          "tier": 6,
+          "start": "1949-10-01",
+          "end": "1954-09-27",
+          "uncertain": null,
+          "sources": [
+            "gov49"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "国务院副总理",
+          "tier": 3,
+          "start": "1954-09-27",
+          "end": "1959-04-28",
+          "uncertain": null,
+          "sources": [
+            "g1"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "国务院副总理",
+          "tier": 3,
+          "start": "1959-04-28",
+          "end": "1965-01-04",
+          "uncertain": null,
+          "sources": [
+            "g2"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "国务院副总理",
+          "tier": 3,
+          "start": "1965-01-04",
+          "end": "1975-01-17",
+          "uncertain": null,
+          "sources": [
+            "g3"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "人民革命军事委员会委员",
+          "tier": 4,
+          "start": "1949-10-19",
+          "end": "1954-09-28",
+          "uncertain": null,
+          "sources": [
+            "mil49"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "中央军委委员",
+          "tier": 4,
+          "start": "1954-09-28",
+          "end": "1959-09-26",
+          "uncertain": null,
+          "sources": [
+            "c54",
+            "p7"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "中央军委副主席",
+          "tier": 2,
+          "start": "1959-09-26",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8",
+            "c59"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "中央军委副主席",
+          "tier": 2,
+          "start": "1969-04-28",
+          "end": "1977-08-19",
+          "uncertain": null,
+          "sources": [
+            "p9"
+          ]
+        }
+      ],
+      "legacy": [
+        {
+          "date": "1949-10-01",
+          "label": "七届中央委员、第四野战军司令员",
+          "category": "中央委员"
+        },
+        {
+          "date": "1955-04",
+          "label": "七届五中全会补选政治局委员",
+          "category": "政治局委员"
+        },
+        {
+          "date": "1956-09-28",
+          "label": "八届中央副主席、政治局常委",
+          "category": "副主席"
+        },
+        {
+          "date": "1959-09-17",
+          "label": "接替彭德怀担任国防部长",
+          "category": "副主席"
+        },
+        {
+          "date": "1969-04-28",
+          "label": "九届中央副主席，党章确立接班人",
+          "category": "副主席"
+        },
+        {
+          "date": "1971-09-13",
+          "label": "逝世。",
+          "category": "逝世"
+        }
+      ],
+      "death": "1971-09-13"
+    },
+    "叶剑英": {
+      "events": [],
+      "roles": [
+        {
+          "domain": "party",
+          "title": "七届中央委员会委员",
+          "tier": 8,
+          "start": "1949-10-01",
+          "end": "1956-09-28",
+          "uncertain": null,
+          "sources": [
+            "p7"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央政治局委员",
+          "tier": 5,
+          "start": "1966-08-12",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8a"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央书记处书记",
+          "tier": 7,
+          "start": "1966-05",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央委员会委员",
+          "tier": 8,
+          "start": "1956-09-28",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "九届中央政治局委员",
+          "tier": 5,
+          "start": "1969-04-28",
+          "end": "1973-08-30",
+          "uncertain": null,
+          "sources": [
+            "p9"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "九届中央委员会委员",
+          "tier": 8,
+          "start": "1969-04-28",
+          "end": "1973-08-30",
+          "uncertain": null,
+          "sources": [
+            "p9"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "中共中央副主席",
+          "tier": 3,
+          "start": "1973-08-30",
+          "end": "1977-08-19",
+          "uncertain": null,
+          "sources": [
+            "p10"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十届中央政治局委员",
+          "tier": 5,
+          "start": "1973-08-30",
+          "end": "1977-08-19",
+          "uncertain": null,
+          "sources": [
+            "p10"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十届中央委员会委员",
+          "tier": 8,
+          "start": "1973-08-30",
+          "end": "1977-08-19",
+          "uncertain": null,
+          "sources": [
+            "p10"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "中共中央副主席",
+          "tier": 3,
+          "start": "1977-08-19",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "p11"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十一届中央政治局委员",
+          "tier": 5,
+          "start": "1977-08-19",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "p11"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十一届中央委员会委员",
+          "tier": 8,
+          "start": "1977-08-19",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "p11"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "中央人民政府委员会委员",
+          "tier": 6,
+          "start": "1949-10-01",
+          "end": "1954-09-27",
+          "uncertain": null,
+          "sources": [
+            "gov49"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "全国人大常委会委员长",
+          "tier": 1,
+          "start": "1978-03-05",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "npc"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "人民革命军事委员会委员",
+          "tier": 4,
+          "start": "1949-10-19",
+          "end": "1954-09-28",
+          "uncertain": null,
+          "sources": [
+            "mil49"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "中央军委委员",
+          "tier": 4,
+          "start": "1954-09-28",
+          "end": "1959-09-26",
+          "uncertain": null,
+          "sources": [
+            "c54",
+            "p7"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "中央军委副主席",
+          "tier": 2,
+          "start": "1966-01",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "中央军委常委",
+          "tier": 3,
+          "start": "1959-09-26",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8",
+            "c59"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "中央军委副主席",
+          "tier": 2,
+          "start": "1969-04-28",
+          "end": "1977-08-19",
+          "uncertain": null,
+          "sources": [
+            "p9"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "中央军委副主席",
+          "tier": 2,
+          "start": "1977-08-19",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "p11"
+          ]
+        }
+      ],
+      "legacy": [
+        {
+          "date": "1949-10-01",
+          "label": "七届中央委员、华南军事工作",
+          "category": "中央委员"
+        },
+        {
+          "date": "1956-09-28",
+          "label": "八届政治局委员",
+          "category": "政治局委员"
+        },
+        {
+          "date": "1969-04-28",
+          "label": "九届政治局委员",
+          "category": "政治局委员"
+        },
+        {
+          "date": "1973-08-30",
+          "label": "十届中央副主席、政治局常委",
+          "category": "副主席"
+        },
+        {
+          "date": "1977-08-19",
+          "label": "十一届中央副主席、政治局常委",
+          "category": "副主席"
+        }
+      ]
+    },
+    "王震": {
+      "events": [],
+      "roles": [
+        {
+          "domain": "party",
+          "title": "七届中央委员会候补委员",
+          "tier": 9,
+          "start": "1949-10-01",
+          "end": "1956-09-28",
+          "uncertain": null,
+          "sources": [
+            "p7"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央委员会委员",
+          "tier": 8,
+          "start": "1956-09-28",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "九届中央委员会委员",
+          "tier": 8,
+          "start": "1969-04-28",
+          "end": "1973-08-30",
+          "uncertain": null,
+          "sources": [
+            "p9"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十届中央委员会委员",
+          "tier": 8,
+          "start": "1973-08-30",
+          "end": "1977-08-19",
+          "uncertain": null,
+          "sources": [
+            "p10"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十一届中央政治局委员",
+          "tier": 5,
+          "start": "1978-12-22",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "p11",
+            "hist"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十一届中央委员会委员",
+          "tier": 8,
+          "start": "1977-08-19",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "p11"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "国务院副总理",
+          "tier": 3,
+          "start": "1975-01-17",
+          "end": "1978-03-05",
+          "uncertain": null,
+          "sources": [
+            "g4"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "国务院副总理",
+          "tier": 3,
+          "start": "1978-03-05",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "g5"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "中央军委常委",
+          "tier": 3,
+          "start": "1978-03",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "p11"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "中央军委委员",
+          "tier": 4,
+          "start": "1977-08-19",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "p11"
+          ]
+        }
+      ],
+      "legacy": [
+        {
+          "date": "1949-10-01",
+          "label": "七届中央候补委员、第一兵团司令员",
+          "category": "中央候补委员"
+        },
+        {
+          "date": "1956-09-28",
+          "label": "八届中央委员、农垦部长",
+          "category": "中央委员"
+        },
+        {
+          "date": "1968-01",
+          "label": "文革期间受到冲击、下放",
+          "category": "受冲击"
+        },
+        {
+          "date": "1975-01-17",
+          "label": "国务院副总理",
+          "category": "中央委员"
+        },
+        {
+          "date": "1978-12-22",
+          "label": "十一届三中全会增选政治局委员",
+          "category": "政治局委员"
+        }
+      ]
+    },
+    "习仲勋": {
+      "events": [],
+      "roles": [
+        {
+          "domain": "party",
+          "title": "七届中央委员会候补委员",
+          "tier": 9,
+          "start": "1949-10-01",
+          "end": "1956-09-28",
+          "uncertain": null,
+          "sources": [
+            "p7"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央委员会委员",
+          "tier": 8,
+          "start": "1956-09-28",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十一届中央委员会委员",
+          "tier": 8,
+          "start": "1978-12-22",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "p11"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "中央人民政府委员会委员",
+          "tier": 6,
+          "start": "1949-10-01",
+          "end": "1954-09-27",
+          "uncertain": null,
+          "sources": [
+            "gov49"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "国务院副总理",
+          "tier": 3,
+          "start": "1959-04-28",
+          "end": "1965-01-04",
+          "uncertain": null,
+          "sources": [
+            "g2"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "人民革命军事委员会委员",
+          "tier": 4,
+          "start": "1949-10-19",
+          "end": "1954-09-28",
+          "uncertain": null,
+          "sources": [
+            "mil49"
+          ]
+        }
+      ],
+      "legacy": [
+        {
+          "date": "1949-10-01",
+          "label": "七届中央候补委员、西北局副书记",
+          "category": "中央候补委员"
+        },
+        {
+          "date": "1956-09-28",
+          "label": "八届中央委员、国务院副总理",
+          "category": "中央委员"
+        },
+        {
+          "date": "1962-09",
+          "label": "因《刘志丹》小说问题受到审查",
+          "category": "受冲击"
+        },
+        {
+          "date": "1978-04",
+          "label": "出任广东省委第二书记",
+          "category": "复出"
+        }
+      ]
+    },
+    "华国锋": {
+      "events": [],
+      "roles": [
+        {
+          "domain": "party",
+          "title": "九届中央委员会委员",
+          "tier": 8,
+          "start": "1969-04-28",
+          "end": "1973-08-30",
+          "uncertain": null,
+          "sources": [
+            "p9"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "中共中央主席",
+          "tier": 1,
+          "start": "1976-10-07",
+          "end": "1977-08-19",
+          "uncertain": null,
+          "sources": [
+            "p10",
+            "hist"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "中共中央第一副主席",
+          "tier": 2,
+          "start": "1976-04-07",
+          "end": "1976-10-07",
+          "uncertain": null,
+          "sources": [
+            "p10",
+            "hist"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十届中央政治局委员",
+          "tier": 5,
+          "start": "1973-08-30",
+          "end": "1977-08-19",
+          "uncertain": null,
+          "sources": [
+            "p10"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十届中央政治局常委",
+          "tier": 4,
+          "start": "1976-04-07",
+          "end": "1977-08-19",
+          "uncertain": null,
+          "sources": [
+            "p10"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十届中央委员会委员",
+          "tier": 8,
+          "start": "1973-08-30",
+          "end": "1977-08-19",
+          "uncertain": null,
+          "sources": [
+            "p10"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "中共中央主席",
+          "tier": 1,
+          "start": "1977-08-19",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "p11"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十一届中央政治局委员",
+          "tier": 5,
+          "start": "1977-08-19",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "p11"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十一届中央委员会委员",
+          "tier": 8,
+          "start": "1977-08-19",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "p11"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "国务院副总理",
+          "tier": 3,
+          "start": "1975-01-17",
+          "end": "1978-03-05",
+          "uncertain": null,
+          "sources": [
+            "g4"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "国务院代总理",
+          "tier": 2,
+          "start": "1976-02-02",
+          "end": "1976-04-07",
+          "uncertain": null,
+          "sources": [
+            "g4"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "国务院总理",
+          "tier": 1,
+          "start": "1976-04-07",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "g4",
+            "g5"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "中央军委主席",
+          "tier": 1,
+          "start": "1976-10-07",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "p9",
+            "p11",
+            "hist"
+          ]
+        }
+      ],
+      "legacy": [
+        {
+          "date": "1969-04-28",
+          "label": "九届中央委员",
+          "category": "中央委员"
+        },
+        {
+          "date": "1973-08-30",
+          "label": "十届中央政治局委员",
+          "category": "政治局委员"
+        },
+        {
+          "date": "1976-04-07",
+          "label": "中共中央第一副主席、国务院总理",
+          "category": "副主席"
+        },
+        {
+          "date": "1976-10-07",
+          "label": "中共中央主席、中央军委主席",
+          "category": "主席"
+        },
+        {
+          "date": "1977-08-19",
+          "label": "十一届中央主席",
+          "category": "主席"
+        }
+      ]
+    },
+    "王洪文": {
+      "events": [],
+      "roles": [
+        {
+          "domain": "party",
+          "title": "九届中央委员会委员",
+          "tier": 8,
+          "start": "1969-04-28",
+          "end": "1973-08-30",
+          "uncertain": null,
+          "sources": [
+            "p9"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "中共中央副主席",
+          "tier": 3,
+          "start": "1973-08-30",
+          "end": "1976-10",
+          "uncertain": null,
+          "sources": [
+            "p10",
+            "p9",
+            "hist"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十届中央政治局委员",
+          "tier": 5,
+          "start": "1973-08-30",
+          "end": "1976-10",
+          "uncertain": null,
+          "sources": [
+            "p10",
+            "p9",
+            "hist"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十届中央委员会委员",
+          "tier": 8,
+          "start": "1973-08-30",
+          "end": "1976-10",
+          "uncertain": null,
+          "sources": [
+            "p10",
+            "p9",
+            "hist"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "中央军委常委",
+          "tier": 3,
+          "start": "1975-02-05",
+          "end": "1976-10",
+          "uncertain": null,
+          "sources": [
+            "p9",
+            "ye",
+            "p10",
+            "hist"
+          ]
+        }
+      ],
+      "legacy": [
+        {
+          "date": "1969-04-28",
+          "label": "九届中央委员",
+          "category": "中央委员"
+        },
+        {
+          "date": "1973-08-30",
+          "label": "十届中央副主席、政治局常委",
+          "category": "副主席"
+        },
+        {
+          "date": "1976-10-06",
+          "label": "四人帮被拘捕，终结政治职务",
+          "category": "撤职"
+        }
+      ]
+    },
+    "张春桥": {
+      "events": [],
+      "roles": [
+        {
+          "domain": "party",
+          "title": "九届中央政治局委员",
+          "tier": 5,
+          "start": "1969-04-28",
+          "end": "1973-08-30",
+          "uncertain": null,
+          "sources": [
+            "p9"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "九届中央委员会委员",
+          "tier": 8,
+          "start": "1969-04-28",
+          "end": "1973-08-30",
+          "uncertain": null,
+          "sources": [
+            "p9"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十届中央政治局常委",
+          "tier": 4,
+          "start": "1973-08-30",
+          "end": "1976-10",
+          "uncertain": null,
+          "sources": [
+            "p10",
+            "p9",
+            "hist"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十届中央政治局委员",
+          "tier": 5,
+          "start": "1973-08-30",
+          "end": "1976-10",
+          "uncertain": null,
+          "sources": [
+            "p10",
+            "p9",
+            "hist"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十届中央委员会委员",
+          "tier": 8,
+          "start": "1973-08-30",
+          "end": "1976-10",
+          "uncertain": null,
+          "sources": [
+            "p10",
+            "p9",
+            "hist"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "国务院副总理",
+          "tier": 3,
+          "start": "1975-01-17",
+          "end": "1976-10",
+          "uncertain": "1976-10-06",
+          "sources": [
+            "g4",
+            "p10",
+            "p9",
+            "hist"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "中央军委常委",
+          "tier": 3,
+          "start": "1975-02-05",
+          "end": "1976-10",
+          "uncertain": null,
+          "sources": [
+            "p9",
+            "ye",
+            "p10",
+            "hist"
+          ]
+        }
+      ],
+      "legacy": [
+        {
+          "date": "1969-04-28",
+          "label": "九届政治局委员",
+          "category": "政治局委员"
+        },
+        {
+          "date": "1973-08-30",
+          "label": "十届政治局常委",
+          "category": "常委"
+        },
+        {
+          "date": "1976-10-06",
+          "label": "四人帮被拘捕",
+          "category": "撤职"
+        }
+      ]
+    },
+    "江青": {
+      "events": [],
+      "roles": [
+        {
+          "domain": "party",
+          "title": "九届中央政治局委员",
+          "tier": 5,
+          "start": "1969-04-28",
+          "end": "1973-08-30",
+          "uncertain": null,
+          "sources": [
+            "p9"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "九届中央委员会委员",
+          "tier": 8,
+          "start": "1969-04-28",
+          "end": "1973-08-30",
+          "uncertain": null,
+          "sources": [
+            "p9"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十届中央政治局委员",
+          "tier": 5,
+          "start": "1973-08-30",
+          "end": "1976-10",
+          "uncertain": null,
+          "sources": [
+            "p10",
+            "hist"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十届中央委员会委员",
+          "tier": 8,
+          "start": "1973-08-30",
+          "end": "1976-10",
+          "uncertain": null,
+          "sources": [
+            "p10",
+            "hist"
+          ]
+        }
+      ],
+      "legacy": [
+        {
+          "date": "1969-04-28",
+          "label": "九届政治局委员",
+          "category": "政治局委员"
+        },
+        {
+          "date": "1973-08-30",
+          "label": "十届政治局委员",
+          "category": "政治局委员"
+        },
+        {
+          "date": "1976-10-06",
+          "label": "四人帮被拘捕",
+          "category": "撤职"
+        }
+      ]
+    },
+    "姚文元": {
+      "events": [],
+      "roles": [
+        {
+          "domain": "party",
+          "title": "九届中央政治局委员",
+          "tier": 5,
+          "start": "1969-04-28",
+          "end": "1973-08-30",
+          "uncertain": null,
+          "sources": [
+            "p9"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "九届中央委员会委员",
+          "tier": 8,
+          "start": "1969-04-28",
+          "end": "1973-08-30",
+          "uncertain": null,
+          "sources": [
+            "p9"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十届中央政治局委员",
+          "tier": 5,
+          "start": "1973-08-30",
+          "end": "1976-10",
+          "uncertain": null,
+          "sources": [
+            "p10",
+            "hist"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十届中央委员会委员",
+          "tier": 8,
+          "start": "1973-08-30",
+          "end": "1976-10",
+          "uncertain": null,
+          "sources": [
+            "p10",
+            "hist"
+          ]
+        }
+      ],
+      "legacy": [
+        {
+          "date": "1969-04-28",
+          "label": "九届政治局委员",
+          "category": "政治局委员"
+        },
+        {
+          "date": "1973-08-30",
+          "label": "十届政治局委员",
+          "category": "政治局委员"
+        },
+        {
+          "date": "1976-10-06",
+          "label": "四人帮被拘捕",
+          "category": "撤职"
+        }
+      ]
+    },
+    "陈伯达": {
+      "events": [],
+      "roles": [
+        {
+          "domain": "party",
+          "title": "七届中央委员会委员",
+          "tier": 8,
+          "start": "1949-10-01",
+          "end": "1956-09-28",
+          "uncertain": null,
+          "sources": [
+            "p7"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央政治局常委",
+          "tier": 4,
+          "start": "1966-08-12",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8a"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央政治局委员",
+          "tier": 5,
+          "start": "1966-08-12",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8a"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央政治局候补委员",
+          "tier": 6,
+          "start": "1956-09-28",
+          "end": "1966-08-12",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央委员会委员",
+          "tier": 8,
+          "start": "1956-09-28",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "九届中央政治局常委",
+          "tier": 4,
+          "start": "1969-04-28",
+          "end": "1971-09",
+          "uncertain": null,
+          "sources": [
+            "p9"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "九届中央政治局委员",
+          "tier": 5,
+          "start": "1969-04-28",
+          "end": "1971-09",
+          "uncertain": null,
+          "sources": [
+            "p9"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "九届中央委员会委员",
+          "tier": 8,
+          "start": "1969-04-28",
+          "end": "1971-09",
+          "uncertain": null,
+          "sources": [
+            "p9"
+          ]
+        }
+      ],
+      "legacy": [
+        {
+          "date": "1956-09-28",
+          "label": "八届政治局候补委员",
+          "category": "政治局候补委员"
+        },
+        {
+          "date": "1966-08-12",
+          "label": "八届十一中全会增选政治局常委",
+          "category": "常委"
+        },
+        {
+          "date": "1969-04-28",
+          "label": "九届政治局常委",
+          "category": "常委"
+        },
+        {
+          "date": "1970-09",
+          "label": "九届二中全会后受到批判",
+          "category": "受冲击"
+        }
+      ]
+    },
+    "陶铸": {
+      "events": [],
+      "roles": [
+        {
+          "domain": "party",
+          "title": "八届中央政治局常委",
+          "tier": 4,
+          "start": "1966-08-12",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8a"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央政治局委员",
+          "tier": 5,
+          "start": "1966-08-12",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8a"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央书记处书记",
+          "tier": 7,
+          "start": "1966-05",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央委员会委员",
+          "tier": 8,
+          "start": "1956-09-28",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "国务院副总理",
+          "tier": 3,
+          "start": "1965-01-04",
+          "end": "1975-01-17",
+          "uncertain": "1967-01",
+          "sources": [
+            "g3"
+          ]
+        }
+      ],
+      "legacy": [
+        {
+          "date": "1956-09-28",
+          "label": "八届政治局候补委员",
+          "category": "政治局候补委员"
+        },
+        {
+          "date": "1966-08-12",
+          "label": "八届十一中全会进入政治局常委",
+          "category": "常委"
+        },
+        {
+          "date": "1967-01",
+          "label": "遭到政治批判并失势",
+          "category": "受冲击"
+        },
+        {
+          "date": "1969-11-30",
+          "label": "逝世。",
+          "category": "逝世"
+        }
+      ],
+      "death": "1969-11-30"
+    },
+    "汪东兴": {
+      "events": [],
+      "roles": [
+        {
+          "domain": "party",
+          "title": "九届中央政治局候补委员",
+          "tier": 6,
+          "start": "1969-04-28",
+          "end": "1973-08-30",
+          "uncertain": null,
+          "sources": [
+            "p9"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "九届中央委员会委员",
+          "tier": 8,
+          "start": "1969-04-28",
+          "end": "1973-08-30",
+          "uncertain": null,
+          "sources": [
+            "p9"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十届中央政治局委员",
+          "tier": 5,
+          "start": "1973-08-30",
+          "end": "1977-08-19",
+          "uncertain": null,
+          "sources": [
+            "p10"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十届中央委员会委员",
+          "tier": 8,
+          "start": "1973-08-30",
+          "end": "1977-08-19",
+          "uncertain": null,
+          "sources": [
+            "p10"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "中共中央副主席",
+          "tier": 3,
+          "start": "1977-08-19",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "p11"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十一届中央政治局委员",
+          "tier": 5,
+          "start": "1977-08-19",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "p11"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十一届中央委员会委员",
+          "tier": 8,
+          "start": "1977-08-19",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "p11"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "中央军委常委",
+          "tier": 3,
+          "start": "1975-02-05",
+          "end": "1977-08-19",
+          "uncertain": null,
+          "sources": [
+            "p9",
+            "ye"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "中央军委常委",
+          "tier": 3,
+          "start": "1977-08-19",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "p11"
+          ]
+        }
+      ],
+      "legacy": [
+        {
+          "date": "1969-04-28",
+          "label": "九届政治局候补委员",
+          "category": "政治局候补委员"
+        },
+        {
+          "date": "1973-08-30",
+          "label": "十届政治局委员",
+          "category": "政治局委员"
+        },
+        {
+          "date": "1977-08-19",
+          "label": "十一届中央副主席、政治局常委",
+          "category": "副主席"
+        }
+      ]
+    },
+    "李先念": {
+      "events": [],
+      "roles": [
+        {
+          "domain": "party",
+          "title": "七届中央委员会委员",
+          "tier": 8,
+          "start": "1949-10-01",
+          "end": "1956-09-28",
+          "uncertain": null,
+          "sources": [
+            "p7"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央政治局委员",
+          "tier": 5,
+          "start": "1956-09-28",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央书记处书记",
+          "tier": 7,
+          "start": "1958-05",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央委员会委员",
+          "tier": 8,
+          "start": "1956-09-28",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "九届中央政治局委员",
+          "tier": 5,
+          "start": "1969-04-28",
+          "end": "1973-08-30",
+          "uncertain": null,
+          "sources": [
+            "p9"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "九届中央委员会委员",
+          "tier": 8,
+          "start": "1969-04-28",
+          "end": "1973-08-30",
+          "uncertain": null,
+          "sources": [
+            "p9"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十届中央政治局委员",
+          "tier": 5,
+          "start": "1973-08-30",
+          "end": "1977-08-19",
+          "uncertain": null,
+          "sources": [
+            "p10"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十届中央委员会委员",
+          "tier": 8,
+          "start": "1973-08-30",
+          "end": "1977-08-19",
+          "uncertain": null,
+          "sources": [
+            "p10"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "中共中央副主席",
+          "tier": 3,
+          "start": "1977-08-19",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "p11"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十一届中央政治局委员",
+          "tier": 5,
+          "start": "1977-08-19",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "p11"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十一届中央委员会委员",
+          "tier": 8,
+          "start": "1977-08-19",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "p11"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "国务院副总理",
+          "tier": 3,
+          "start": "1954-09-27",
+          "end": "1959-04-28",
+          "uncertain": null,
+          "sources": [
+            "g1"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "国务院副总理",
+          "tier": 3,
+          "start": "1959-04-28",
+          "end": "1965-01-04",
+          "uncertain": null,
+          "sources": [
+            "g2"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "国务院副总理",
+          "tier": 3,
+          "start": "1965-01-04",
+          "end": "1975-01-17",
+          "uncertain": null,
+          "sources": [
+            "g3"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "国务院副总理",
+          "tier": 3,
+          "start": "1975-01-17",
+          "end": "1978-03-05",
+          "uncertain": null,
+          "sources": [
+            "g4"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "国务院副总理",
+          "tier": 3,
+          "start": "1978-03-05",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "g5"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "人民革命军事委员会委员",
+          "tier": 4,
+          "start": "1949-10-19",
+          "end": "1954-09-28",
+          "uncertain": null,
+          "sources": [
+            "mil49"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "中央军委常委",
+          "tier": 3,
+          "start": "1977-08-19",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "p11"
+          ]
+        }
+      ],
+      "legacy": [
+        {
+          "date": "1956-09-28",
+          "label": "八届政治局委员、国务院副总理",
+          "category": "政治局委员"
+        },
+        {
+          "date": "1969-04-28",
+          "label": "九届政治局委员",
+          "category": "政治局委员"
+        },
+        {
+          "date": "1973-08-30",
+          "label": "十届政治局委员",
+          "category": "政治局委员"
+        },
+        {
+          "date": "1977-08-19",
+          "label": "十一届中央副主席、政治局常委",
+          "category": "副主席"
+        }
+      ]
+    },
+    "胡耀邦": {
+      "events": [],
+      "roles": [
+        {
+          "domain": "party",
+          "title": "八届中央委员会委员",
+          "tier": 8,
+          "start": "1956-09-28",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十一届中央政治局委员",
+          "tier": 5,
+          "start": "1978-12-22",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "p11",
+            "hist"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十一届中央委员会委员",
+          "tier": 8,
+          "start": "1977-08-19",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "p11"
+          ]
+        }
+      ],
+      "legacy": [
+        {
+          "date": "1949-10-01",
+          "label": "团中央等青年工作岗位",
+          "category": "其他"
+        },
+        {
+          "date": "1956-09-28",
+          "label": "八届中央委员、团中央第一书记",
+          "category": "中央委员"
+        },
+        {
+          "date": "1966-08",
+          "label": "文化大革命期间受到冲击",
+          "category": "受冲击"
+        },
+        {
+          "date": "1977-12",
+          "label": "中央组织部部长",
+          "category": "中央委员"
+        },
+        {
+          "date": "1978-12-22",
+          "label": "十一届三中全会增选政治局委员",
+          "category": "政治局委员"
+        }
+      ]
+    },
+    "康生": {
+      "events": [],
+      "roles": [
+        {
+          "domain": "party",
+          "title": "七届中央政治局委员",
+          "tier": 5,
+          "start": "1949-10-01",
+          "end": "1956-09-28",
+          "uncertain": null,
+          "sources": [
+            "p7"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "七届中央委员会委员",
+          "tier": 8,
+          "start": "1949-10-01",
+          "end": "1956-09-28",
+          "uncertain": null,
+          "sources": [
+            "p7"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央政治局常委",
+          "tier": 4,
+          "start": "1966-08-12",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8a"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央政治局委员",
+          "tier": 5,
+          "start": "1966-08-12",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8a"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央政治局候补委员",
+          "tier": 6,
+          "start": "1956-09-28",
+          "end": "1966-08-12",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央书记处书记",
+          "tier": 7,
+          "start": "1962-09",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8",
+            "p8a"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央委员会委员",
+          "tier": 8,
+          "start": "1956-09-28",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "九届中央政治局常委",
+          "tier": 4,
+          "start": "1969-04-28",
+          "end": "1973-08-30",
+          "uncertain": null,
+          "sources": [
+            "p9"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "九届中央政治局委员",
+          "tier": 5,
+          "start": "1969-04-28",
+          "end": "1973-08-30",
+          "uncertain": null,
+          "sources": [
+            "p9"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "九届中央委员会委员",
+          "tier": 8,
+          "start": "1969-04-28",
+          "end": "1973-08-30",
+          "uncertain": null,
+          "sources": [
+            "p9"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "中共中央副主席",
+          "tier": 3,
+          "start": "1973-08-30",
+          "end": "1977-08-19",
+          "uncertain": null,
+          "sources": [
+            "p10"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十届中央政治局委员",
+          "tier": 5,
+          "start": "1973-08-30",
+          "end": "1977-08-19",
+          "uncertain": null,
+          "sources": [
+            "p10"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十届中央委员会委员",
+          "tier": 8,
+          "start": "1973-08-30",
+          "end": "1977-08-19",
+          "uncertain": null,
+          "sources": [
+            "p10"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "中央人民政府委员会委员",
+          "tier": 6,
+          "start": "1949-10-01",
+          "end": "1954-09-27",
+          "uncertain": null,
+          "sources": [
+            "gov49"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "全国人大常委会副委员长",
+          "tier": 3,
+          "start": "1965-01-03",
+          "end": "1975-01-17",
+          "uncertain": null,
+          "sources": [
+            "npc"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "全国人大常委会副委员长",
+          "tier": 3,
+          "start": "1975-01-17",
+          "end": "1978-03-05",
+          "uncertain": null,
+          "sources": [
+            "npc"
+          ]
+        }
+      ],
+      "legacy": [
+        {
+          "date": "1949-10-01",
+          "label": "七届政治局委员",
+          "category": "政治局委员"
+        },
+        {
+          "date": "1956-09-28",
+          "label": "八届政治局候补委员",
+          "category": "政治局候补委员"
+        },
+        {
+          "date": "1966-08-12",
+          "label": "八届十一中全会进入政治局常委",
+          "category": "常委"
+        },
+        {
+          "date": "1969-04-28",
+          "label": "九届政治局常委",
+          "category": "常委"
+        },
+        {
+          "date": "1973-08-30",
+          "label": "十届政治局常委",
+          "category": "常委"
+        },
+        {
+          "date": "1975-12-16",
+          "label": "逝世。",
+          "category": "逝世"
+        }
+      ],
+      "death": "1975-12-16"
+    },
+    "董必武": {
+      "events": [],
+      "roles": [
+        {
+          "domain": "party",
+          "title": "七届中央政治局委员",
+          "tier": 5,
+          "start": "1949-10-01",
+          "end": "1956-09-28",
+          "uncertain": null,
+          "sources": [
+            "p7"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "七届中央委员会委员",
+          "tier": 8,
+          "start": "1949-10-01",
+          "end": "1956-09-28",
+          "uncertain": null,
+          "sources": [
+            "p7"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央政治局委员",
+          "tier": 5,
+          "start": "1956-09-28",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央委员会委员",
+          "tier": 8,
+          "start": "1956-09-28",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "九届中央政治局委员",
+          "tier": 5,
+          "start": "1969-04-28",
+          "end": "1973-08-30",
+          "uncertain": null,
+          "sources": [
+            "p9"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "九届中央委员会委员",
+          "tier": 8,
+          "start": "1969-04-28",
+          "end": "1973-08-30",
+          "uncertain": null,
+          "sources": [
+            "p9"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十届中央政治局常委",
+          "tier": 4,
+          "start": "1973-08-30",
+          "end": "1977-08-19",
+          "uncertain": null,
+          "sources": [
+            "p10"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十届中央政治局委员",
+          "tier": 5,
+          "start": "1973-08-30",
+          "end": "1977-08-19",
+          "uncertain": null,
+          "sources": [
+            "p10"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十届中央委员会委员",
+          "tier": 8,
+          "start": "1973-08-30",
+          "end": "1977-08-19",
+          "uncertain": null,
+          "sources": [
+            "p10"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "中央人民政府委员会委员",
+          "tier": 6,
+          "start": "1949-10-01",
+          "end": "1954-09-27",
+          "uncertain": null,
+          "sources": [
+            "gov49"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "政务院副总理",
+          "tier": 3,
+          "start": "1949-10-19",
+          "end": "1954-09-27",
+          "uncertain": null,
+          "sources": [
+            "c49"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "中华人民共和国副主席",
+          "tier": 3,
+          "start": "1959-04-27",
+          "end": "1975-01-17",
+          "uncertain": null,
+          "sources": [
+            "head",
+            "hist"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "全国人大常委会副委员长",
+          "tier": 3,
+          "start": "1975-01-17",
+          "end": "1978-03-05",
+          "uncertain": null,
+          "sources": [
+            "npc"
+          ]
+        }
+      ],
+      "legacy": [
+        {
+          "date": "1949-10-01",
+          "label": "七届政治局委员",
+          "category": "政治局委员"
+        },
+        {
+          "date": "1956-09-28",
+          "label": "八届政治局委员",
+          "category": "政治局委员"
+        },
+        {
+          "date": "1969-04-28",
+          "label": "九届政治局委员",
+          "category": "政治局委员"
+        },
+        {
+          "date": "1973-08-30",
+          "label": "十届政治局常委",
+          "category": "常委"
+        },
+        {
+          "date": "1975-04-02",
+          "label": "逝世。",
+          "category": "逝世"
+        }
+      ],
+      "death": "1975-04-02"
+    },
+    "彭真": {
+      "events": [
+        {
+          "date": "1958-06-10",
+          "label": "中共中央设立政法小组，彭真任组长。",
+          "sources": [
+            "groups"
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "domain": "party",
+          "title": "七届中央政治局委员",
+          "tier": 5,
+          "start": "1949-10-01",
+          "end": "1956-09-28",
+          "uncertain": null,
+          "sources": [
+            "p7"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "七届中央委员会委员",
+          "tier": 8,
+          "start": "1949-10-01",
+          "end": "1956-09-28",
+          "uncertain": null,
+          "sources": [
+            "p7"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央政治局委员",
+          "tier": 5,
+          "start": "1956-09-28",
+          "end": "1966-05",
+          "uncertain": null,
+          "sources": [
+            "p8",
+            "p8a"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央书记处书记",
+          "tier": 7,
+          "start": "1956-09-28",
+          "end": "1966-05",
+          "uncertain": null,
+          "sources": [
+            "p8",
+            "p8a"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央委员会委员",
+          "tier": 8,
+          "start": "1956-09-28",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "中央人民政府委员会委员",
+          "tier": 6,
+          "start": "1949-10-01",
+          "end": "1954-09-27",
+          "uncertain": null,
+          "sources": [
+            "gov49"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "全国人大常委会副委员长",
+          "tier": 3,
+          "start": "1954-09-27",
+          "end": "1959-04-27",
+          "uncertain": null,
+          "sources": [
+            "npc"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "全国人大常委会副委员长",
+          "tier": 3,
+          "start": "1959-04-27",
+          "end": "1965-01-03",
+          "uncertain": null,
+          "sources": [
+            "npc"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "全国人大常委会副委员长",
+          "tier": 3,
+          "start": "1965-01-03",
+          "end": "1975-01-17",
+          "uncertain": "1966-05",
+          "sources": [
+            "npc",
+            "p8"
+          ]
+        }
+      ],
+      "legacy": [
+        {
+          "date": "1949-10-01",
+          "label": "七届政治局委员",
+          "category": "政治局委员"
+        },
+        {
+          "date": "1956-09-28",
+          "label": "八届政治局委员、书记处书记",
+          "category": "政治局委员"
+        },
+        {
+          "date": "1966-05",
+          "label": "文革前夕被撤销北京市委第一书记等职务",
+          "category": "撤职"
+        }
+      ]
+    },
+    "黄克诚": {
+      "events": [],
+      "roles": [
+        {
+          "domain": "party",
+          "title": "七届中央委员会委员",
+          "tier": 8,
+          "start": "1949-10-01",
+          "end": "1956-09-28",
+          "uncertain": null,
+          "sources": [
+            "p7"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央书记处书记",
+          "tier": 7,
+          "start": "1956-09-28",
+          "end": "1962-09",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央委员会委员",
+          "tier": 8,
+          "start": "1956-09-28",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十一届中央委员会委员",
+          "tier": 8,
+          "start": "1978-12-22",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "p11"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "中央军委委员",
+          "tier": 4,
+          "start": "1956-11",
+          "end": "1959-08",
+          "uncertain": null,
+          "sources": [
+            "p7"
+          ]
+        }
+      ],
+      "legacy": [
+        {
+          "date": "1956-09-28",
+          "label": "八届中央委员、军委秘书长",
+          "category": "中央委员"
+        },
+        {
+          "date": "1959-09",
+          "label": "庐山会议后遭到撤职、批判",
+          "category": "撤职"
+        }
+      ]
+    },
+    "贺龙": {
+      "events": [],
+      "roles": [
+        {
+          "domain": "party",
+          "title": "七届中央委员会委员",
+          "tier": 8,
+          "start": "1949-10-01",
+          "end": "1956-09-28",
+          "uncertain": null,
+          "sources": [
+            "p7"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央政治局委员",
+          "tier": 5,
+          "start": "1956-09-28",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央委员会委员",
+          "tier": 8,
+          "start": "1956-09-28",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "中央人民政府委员会委员",
+          "tier": 6,
+          "start": "1949-10-01",
+          "end": "1954-09-27",
+          "uncertain": null,
+          "sources": [
+            "gov49"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "国务院副总理",
+          "tier": 3,
+          "start": "1954-09-27",
+          "end": "1959-04-28",
+          "uncertain": null,
+          "sources": [
+            "g1"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "国务院副总理",
+          "tier": 3,
+          "start": "1959-04-28",
+          "end": "1965-01-04",
+          "uncertain": null,
+          "sources": [
+            "g2"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "国务院副总理",
+          "tier": 3,
+          "start": "1965-01-04",
+          "end": "1975-01-17",
+          "uncertain": "1967-01",
+          "sources": [
+            "g3",
+            "p8"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "人民革命军事委员会委员",
+          "tier": 4,
+          "start": "1949-10-19",
+          "end": "1954-09-28",
+          "uncertain": null,
+          "sources": [
+            "mil49"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "中央军委委员",
+          "tier": 4,
+          "start": "1954-09-28",
+          "end": "1959-09-26",
+          "uncertain": null,
+          "sources": [
+            "c54",
+            "p7"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "中央军委副主席",
+          "tier": 2,
+          "start": "1959-09-26",
+          "end": "1967-09",
+          "uncertain": null,
+          "sources": [
+            "p8",
+            "c59"
+          ]
+        }
+      ],
+      "legacy": [
+        {
+          "date": "1956-09-28",
+          "label": "八届政治局委员、元帅",
+          "category": "政治局委员"
+        },
+        {
+          "date": "1967-01",
+          "label": "文革期间受到迫害",
+          "category": "受冲击"
+        },
+        {
+          "date": "1969-06-09",
+          "label": "逝世。",
+          "category": "逝世"
+        }
+      ],
+      "death": "1969-06-09"
+    },
+    "邓子恢": {
+      "events": [
+        {
+          "date": "1972-12",
+          "label": "逝世。",
+          "sources": [
+            "p9"
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "domain": "party",
+          "title": "七届中央委员会委员",
+          "tier": 8,
+          "start": "1949-10-01",
+          "end": "1956-09-28",
+          "uncertain": null,
+          "sources": [
+            "p7"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央委员会委员",
+          "tier": 8,
+          "start": "1956-09-28",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "九届中央委员会委员",
+          "tier": 8,
+          "start": "1969-04-28",
+          "end": "1973-08-30",
+          "uncertain": null,
+          "sources": [
+            "p9"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "中央人民政府委员会委员",
+          "tier": 6,
+          "start": "1949-10-01",
+          "end": "1954-09-27",
+          "uncertain": null,
+          "sources": [
+            "gov49"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "国务院副总理",
+          "tier": 3,
+          "start": "1954-09-27",
+          "end": "1959-04-28",
+          "uncertain": null,
+          "sources": [
+            "g1"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "国务院副总理",
+          "tier": 3,
+          "start": "1959-04-28",
+          "end": "1965-01-04",
+          "uncertain": null,
+          "sources": [
+            "g2"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "人民革命军事委员会委员",
+          "tier": 4,
+          "start": "1949-10-19",
+          "end": "1954-09-28",
+          "uncertain": null,
+          "sources": [
+            "mil49"
+          ]
+        }
+      ],
+      "legacy": [
+        {
+          "date": "1949-10-01",
+          "label": "七届中央委员、中南局第二书记",
+          "category": "中央委员"
+        },
+        {
+          "date": "1956-09-28",
+          "label": "八届中央委员、中央农村工作部部长",
+          "category": "中央委员"
+        },
+        {
+          "date": "1962-10",
+          "label": "农业政策分歧后政治影响下降",
+          "category": "受冲击"
+        }
+      ],
+      "death": "1972-12"
+    },
+    "杨尚昆": {
+      "events": [],
+      "roles": [
+        {
+          "domain": "party",
+          "title": "八届中央书记处候补书记",
+          "tier": 8,
+          "start": "1956-09-28",
+          "end": "1966-08-12",
+          "uncertain": null,
+          "sources": [
+            "p8a"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央委员会委员",
+          "tier": 8,
+          "start": "1956-09-28",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        }
+      ],
+      "legacy": [
+        {
+          "date": "1956-09-28",
+          "label": "八届书记处候补书记、中央办公厅主任",
+          "category": "书记处候补书记"
+        },
+        {
+          "date": "1965-11",
+          "label": "被免去中央办公厅主任职务",
+          "category": "撤职"
+        }
+      ]
+    },
+    "罗瑞卿": {
+      "events": [
+        {
+          "date": "1978-08",
+          "label": "逝世。",
+          "sources": [
+            "p11"
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "domain": "party",
+          "title": "七届中央委员会候补委员",
+          "tier": 9,
+          "start": "1949-10-01",
+          "end": "1956-09-28",
+          "uncertain": null,
+          "sources": [
+            "p7"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央书记处书记",
+          "tier": 7,
+          "start": "1962-09",
+          "end": "1966-08-12",
+          "uncertain": null,
+          "sources": [
+            "p8",
+            "p8a"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央委员会委员",
+          "tier": 8,
+          "start": "1956-09-28",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十一届中央委员会委员",
+          "tier": 8,
+          "start": "1977-08-19",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "p11"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "国务院副总理",
+          "tier": 3,
+          "start": "1959-04-28",
+          "end": "1965-01-04",
+          "uncertain": null,
+          "sources": [
+            "g2"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "国务院副总理",
+          "tier": 3,
+          "start": "1965-01-04",
+          "end": "1975-01-17",
+          "uncertain": "1965-12",
+          "sources": [
+            "g3",
+            "p8"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "人民革命军事委员会委员",
+          "tier": 4,
+          "start": "1949-10-19",
+          "end": "1954-09-28",
+          "uncertain": null,
+          "sources": [
+            "mil49"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "中央军委常委",
+          "tier": 3,
+          "start": "1959-09-26",
+          "end": "1965-12",
+          "uncertain": null,
+          "sources": [
+            "p8",
+            "c59"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "中央军委常委",
+          "tier": 3,
+          "start": "1977-08-19",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "p11"
+          ]
+        }
+      ],
+      "legacy": [
+        {
+          "date": "1956-09-28",
+          "label": "八届中央委员、公安部长",
+          "category": "中央委员"
+        },
+        {
+          "date": "1962-09",
+          "label": "中央书记处书记、总参谋长",
+          "category": "书记处书记"
+        },
+        {
+          "date": "1965-12",
+          "label": "遭到批判，随后被撤职",
+          "category": "受冲击"
+        }
+      ],
+      "death": "1978-08"
+    },
+    "宋庆龄": {
+      "events": [
+        {
+          "date": "1959-04-27",
+          "label": "当选中华人民共和国副主席，与董必武同任该职。",
+          "sources": [
+            "head",
+            "country"
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "domain": "state",
+          "title": "中央人民政府副主席",
+          "tier": 3,
+          "start": "1949-10-01",
+          "end": "1954-09-27",
+          "uncertain": null,
+          "sources": [
+            "head",
+            "gov49"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "中华人民共和国副主席",
+          "tier": 3,
+          "start": "1959-04-27",
+          "end": "1975-01-17",
+          "uncertain": null,
+          "sources": [
+            "head",
+            "hist"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "全国人大常委会副委员长",
+          "tier": 3,
+          "start": "1954-09-27",
+          "end": "1959-04-27",
+          "uncertain": null,
+          "sources": [
+            "npc"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "全国人大常委会副委员长",
+          "tier": 3,
+          "start": "1975-01-17",
+          "end": "1978-03-05",
+          "uncertain": null,
+          "sources": [
+            "npc"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "全国人大常委会副委员长",
+          "tier": 3,
+          "start": "1978-03-05",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "npc"
+          ]
+        }
+      ],
+      "legacy": []
+    },
+    "邓颖超": {
+      "events": [
+        {
+          "date": "1976-12-02",
+          "label": "补选为第四届全国人大常委会副委员长。",
+          "sources": [
+            "npc"
+          ]
+        },
+        {
+          "date": "1978-09",
+          "label": "当选全国妇联第四届主席。",
+          "sources": [
+            "women"
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "domain": "party",
+          "title": "七届中央委员会候补委员",
+          "tier": 9,
+          "start": "1949-10-01",
+          "end": "1956-09-28",
+          "uncertain": null,
+          "sources": [
+            "p7"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央委员会委员",
+          "tier": 8,
+          "start": "1956-09-28",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "九届中央委员会委员",
+          "tier": 8,
+          "start": "1969-04-28",
+          "end": "1973-08-30",
+          "uncertain": null,
+          "sources": [
+            "p9"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十届中央委员会委员",
+          "tier": 8,
+          "start": "1973-08-30",
+          "end": "1977-08-19",
+          "uncertain": null,
+          "sources": [
+            "p10"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十一届中央政治局委员",
+          "tier": 5,
+          "start": "1978-12-22",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "p11",
+            "hist"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十一届中央委员会委员",
+          "tier": 8,
+          "start": "1977-08-19",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "p11"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "全国人大常委会副委员长",
+          "tier": 3,
+          "start": "1976-12-02",
+          "end": "1978-03-05",
+          "uncertain": null,
+          "sources": [
+            "npc"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "全国人大常委会副委员长",
+          "tier": 3,
+          "start": "1978-03-05",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "npc"
+          ]
+        }
+      ],
+      "legacy": []
+    },
+    "蔡畅": {
+      "events": [
+        {
+          "date": "1949-10-01",
+          "label": "中央人民政府委员会就职，蔡畅为委员。",
+          "sources": [
+            "gov49"
+          ]
+        },
+        {
+          "date": "1978-09",
+          "label": "全国妇联第四次代表大会后任名誉主席。",
+          "sources": [
+            "spring",
+            "women"
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "domain": "party",
+          "title": "七届中央委员会委员",
+          "tier": 8,
+          "start": "1949-10-01",
+          "end": "1956-09-28",
+          "uncertain": null,
+          "sources": [
+            "p7"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央委员会委员",
+          "tier": 8,
+          "start": "1956-09-28",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "九届中央委员会委员",
+          "tier": 8,
+          "start": "1969-04-28",
+          "end": "1973-08-30",
+          "uncertain": null,
+          "sources": [
+            "p9"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十届中央委员会委员",
+          "tier": 8,
+          "start": "1973-08-30",
+          "end": "1977-08-19",
+          "uncertain": null,
+          "sources": [
+            "p10"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十一届中央委员会委员",
+          "tier": 8,
+          "start": "1977-08-19",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "p11"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "中央人民政府委员会委员",
+          "tier": 6,
+          "start": "1949-10-01",
+          "end": "1954-09-27",
+          "uncertain": null,
+          "sources": [
+            "gov49"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "全国人大常委会副委员长",
+          "tier": 3,
+          "start": "1975-01-17",
+          "end": "1978-03-05",
+          "uncertain": null,
+          "sources": [
+            "npc"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "全国人大常委会副委员长",
+          "tier": 3,
+          "start": "1978-03-05",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "npc"
+          ]
+        }
+      ],
+      "legacy": []
+    },
+    "刘伯承": {
+      "events": [
+        {
+          "date": "1955-09-27",
+          "label": "获授中华人民共和国元帅军衔。",
+          "sources": [
+            "hist"
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "domain": "party",
+          "title": "七届中央委员会委员",
+          "tier": 8,
+          "start": "1949-10-01",
+          "end": "1956-09-28",
+          "uncertain": null,
+          "sources": [
+            "p7"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央政治局委员",
+          "tier": 5,
+          "start": "1956-09-28",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央委员会委员",
+          "tier": 8,
+          "start": "1956-09-28",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "九届中央政治局委员",
+          "tier": 5,
+          "start": "1969-04-28",
+          "end": "1973-08-30",
+          "uncertain": null,
+          "sources": [
+            "p9"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "九届中央委员会委员",
+          "tier": 8,
+          "start": "1969-04-28",
+          "end": "1973-08-30",
+          "uncertain": null,
+          "sources": [
+            "p9"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十届中央政治局委员",
+          "tier": 5,
+          "start": "1973-08-30",
+          "end": "1977-08-19",
+          "uncertain": null,
+          "sources": [
+            "p10"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十届中央委员会委员",
+          "tier": 8,
+          "start": "1973-08-30",
+          "end": "1977-08-19",
+          "uncertain": null,
+          "sources": [
+            "p10"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十一届中央政治局委员",
+          "tier": 5,
+          "start": "1977-08-19",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "p11"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十一届中央委员会委员",
+          "tier": 8,
+          "start": "1977-08-19",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "p11"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "中央人民政府委员会委员",
+          "tier": 6,
+          "start": "1949-10-01",
+          "end": "1954-09-27",
+          "uncertain": null,
+          "sources": [
+            "gov49"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "全国人大常委会副委员长",
+          "tier": 3,
+          "start": "1959-04-27",
+          "end": "1965-01-03",
+          "uncertain": null,
+          "sources": [
+            "npc"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "全国人大常委会副委员长",
+          "tier": 3,
+          "start": "1965-01-03",
+          "end": "1975-01-17",
+          "uncertain": null,
+          "sources": [
+            "npc"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "全国人大常委会副委员长",
+          "tier": 3,
+          "start": "1975-01-17",
+          "end": "1978-03-05",
+          "uncertain": null,
+          "sources": [
+            "npc"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "全国人大常委会副委员长",
+          "tier": 3,
+          "start": "1978-03-05",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "npc"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "人民革命军事委员会委员",
+          "tier": 4,
+          "start": "1949-10-19",
+          "end": "1954-09-28",
+          "uncertain": null,
+          "sources": [
+            "mil49"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "中央军委委员",
+          "tier": 4,
+          "start": "1954-09-28",
+          "end": "1959-09-26",
+          "uncertain": null,
+          "sources": [
+            "c54",
+            "p7"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "中央军委副主席",
+          "tier": 2,
+          "start": "1966-01",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "中央军委常委",
+          "tier": 3,
+          "start": "1959-09-26",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8",
+            "c59"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "中央军委副主席",
+          "tier": 2,
+          "start": "1969-04-28",
+          "end": "1977-08-19",
+          "uncertain": null,
+          "sources": [
+            "p9"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "中央军委副主席",
+          "tier": 2,
+          "start": "1977-08-19",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "p11"
+          ]
+        }
+      ],
+      "legacy": []
+    },
+    "徐向前": {
+      "events": [
+        {
+          "date": "1949-10-19",
+          "label": "获任命为人民革命军事委员会总参谋长。",
+          "sources": [
+            "c49",
+            "mil49"
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "domain": "party",
+          "title": "七届中央委员会委员",
+          "tier": 8,
+          "start": "1949-10-01",
+          "end": "1956-09-28",
+          "uncertain": null,
+          "sources": [
+            "p7"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央政治局委员",
+          "tier": 5,
+          "start": "1966-08-12",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8a"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央委员会委员",
+          "tier": 8,
+          "start": "1956-09-28",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "九届中央委员会委员",
+          "tier": 8,
+          "start": "1969-04-28",
+          "end": "1973-08-30",
+          "uncertain": null,
+          "sources": [
+            "p9"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十届中央委员会委员",
+          "tier": 8,
+          "start": "1973-08-30",
+          "end": "1977-08-19",
+          "uncertain": null,
+          "sources": [
+            "p10"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十一届中央政治局委员",
+          "tier": 5,
+          "start": "1977-08-19",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "p11"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十一届中央委员会委员",
+          "tier": 8,
+          "start": "1977-08-19",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "p11"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "中央人民政府委员会委员",
+          "tier": 6,
+          "start": "1949-10-01",
+          "end": "1954-09-27",
+          "uncertain": null,
+          "sources": [
+            "gov49"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "全国人大常委会副委员长",
+          "tier": 3,
+          "start": "1965-01-03",
+          "end": "1975-01-17",
+          "uncertain": null,
+          "sources": [
+            "npc"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "全国人大常委会副委员长",
+          "tier": 3,
+          "start": "1975-01-17",
+          "end": "1978-03-05",
+          "uncertain": null,
+          "sources": [
+            "npc"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "国务院副总理",
+          "tier": 3,
+          "start": "1978-03-05",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "g5"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "人民革命军事委员会委员",
+          "tier": 4,
+          "start": "1949-10-19",
+          "end": "1954-09-28",
+          "uncertain": null,
+          "sources": [
+            "mil49"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "中央军委委员",
+          "tier": 4,
+          "start": "1954-09-28",
+          "end": "1959-09-26",
+          "uncertain": null,
+          "sources": [
+            "c54",
+            "p7"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "中央军委副主席",
+          "tier": 2,
+          "start": "1966-01",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "中央军委常委",
+          "tier": 3,
+          "start": "1959-09-26",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8",
+            "c59"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "中央军委副主席",
+          "tier": 2,
+          "start": "1969-04-28",
+          "end": "1977-08-19",
+          "uncertain": null,
+          "sources": [
+            "p9"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "中央军委副主席",
+          "tier": 2,
+          "start": "1977-08-19",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "p11"
+          ]
+        }
+      ],
+      "legacy": []
+    },
+    "聂荣臻": {
+      "events": [
+        {
+          "date": "1949-10-19",
+          "label": "获任命为人民革命军事委员会副总参谋长。",
+          "sources": [
+            "c49",
+            "mil49"
+          ]
+        },
+        {
+          "date": "1958-06-10",
+          "label": "中共中央设立科学小组，聂荣臻任组长。",
+          "sources": [
+            "groups"
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "domain": "party",
+          "title": "七届中央委员会委员",
+          "tier": 8,
+          "start": "1949-10-01",
+          "end": "1956-09-28",
+          "uncertain": null,
+          "sources": [
+            "p7"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央政治局委员",
+          "tier": 5,
+          "start": "1966-08-12",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8a"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央委员会委员",
+          "tier": 8,
+          "start": "1956-09-28",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "九届中央委员会委员",
+          "tier": 8,
+          "start": "1969-04-28",
+          "end": "1973-08-30",
+          "uncertain": null,
+          "sources": [
+            "p9"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十届中央委员会委员",
+          "tier": 8,
+          "start": "1973-08-30",
+          "end": "1977-08-19",
+          "uncertain": null,
+          "sources": [
+            "p10"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十一届中央政治局委员",
+          "tier": 5,
+          "start": "1977-08-19",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "p11"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十一届中央委员会委员",
+          "tier": 8,
+          "start": "1977-08-19",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "p11"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "中央人民政府委员会委员",
+          "tier": 6,
+          "start": "1949-10-01",
+          "end": "1954-09-27",
+          "uncertain": null,
+          "sources": [
+            "gov49"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "全国人大常委会副委员长",
+          "tier": 3,
+          "start": "1975-01-17",
+          "end": "1978-03-05",
+          "uncertain": null,
+          "sources": [
+            "npc"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "全国人大常委会副委员长",
+          "tier": 3,
+          "start": "1978-03-05",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "npc"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "国务院副总理",
+          "tier": 3,
+          "start": "1959-04-28",
+          "end": "1965-01-04",
+          "uncertain": null,
+          "sources": [
+            "g2"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "国务院副总理",
+          "tier": 3,
+          "start": "1965-01-04",
+          "end": "1975-01-17",
+          "uncertain": null,
+          "sources": [
+            "g3"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "人民革命军事委员会委员",
+          "tier": 4,
+          "start": "1949-10-19",
+          "end": "1954-09-28",
+          "uncertain": null,
+          "sources": [
+            "mil49"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "中央军委委员",
+          "tier": 4,
+          "start": "1954-09-28",
+          "end": "1959-09-26",
+          "uncertain": null,
+          "sources": [
+            "c54",
+            "p7"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "中央军委副主席",
+          "tier": 2,
+          "start": "1959-09-26",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8",
+            "c59"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "中央军委副主席",
+          "tier": 2,
+          "start": "1969-04-28",
+          "end": "1977-08-19",
+          "uncertain": null,
+          "sources": [
+            "p9"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "中央军委副主席",
+          "tier": 2,
+          "start": "1977-08-19",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "p11"
+          ]
+        }
+      ],
+      "legacy": []
+    },
+    "陈毅": {
+      "events": [
+        {
+          "date": "1955-09-27",
+          "label": "获授中华人民共和国元帅军衔。",
+          "sources": [
+            "hist"
+          ]
+        },
+        {
+          "date": "1958-06-10",
+          "label": "中共中央设立外事小组，陈毅任组长。",
+          "sources": [
+            "groups"
+          ]
+        },
+        {
+          "date": "1972-01-06",
+          "label": "逝世。",
+          "sources": [
+            "p9",
+            "hist"
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "domain": "party",
+          "title": "七届中央委员会委员",
+          "tier": 8,
+          "start": "1949-10-01",
+          "end": "1956-09-28",
+          "uncertain": null,
+          "sources": [
+            "p7"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央政治局委员",
+          "tier": 5,
+          "start": "1956-09-28",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央委员会委员",
+          "tier": 8,
+          "start": "1956-09-28",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "九届中央委员会委员",
+          "tier": 8,
+          "start": "1969-04-28",
+          "end": "1973-08-30",
+          "uncertain": null,
+          "sources": [
+            "p9"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "中央人民政府委员会委员",
+          "tier": 6,
+          "start": "1949-10-01",
+          "end": "1954-09-27",
+          "uncertain": null,
+          "sources": [
+            "gov49"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "国务院副总理",
+          "tier": 3,
+          "start": "1954-09-27",
+          "end": "1959-04-28",
+          "uncertain": null,
+          "sources": [
+            "g1"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "国务院副总理",
+          "tier": 3,
+          "start": "1959-04-28",
+          "end": "1965-01-04",
+          "uncertain": null,
+          "sources": [
+            "g2"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "国务院副总理",
+          "tier": 3,
+          "start": "1965-01-04",
+          "end": "1975-01-17",
+          "uncertain": null,
+          "sources": [
+            "g3"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "人民革命军事委员会委员",
+          "tier": 4,
+          "start": "1949-10-19",
+          "end": "1954-09-28",
+          "uncertain": null,
+          "sources": [
+            "mil49"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "中央军委委员",
+          "tier": 4,
+          "start": "1954-09-28",
+          "end": "1959-09-26",
+          "uncertain": null,
+          "sources": [
+            "c54",
+            "p7"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "中央军委副主席",
+          "tier": 2,
+          "start": "1966-01",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "中央军委常委",
+          "tier": 3,
+          "start": "1959-09-26",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8",
+            "c59"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "中央军委副主席",
+          "tier": 2,
+          "start": "1969-04-28",
+          "end": "1977-08-19",
+          "uncertain": null,
+          "sources": [
+            "p9"
+          ]
+        }
+      ],
+      "legacy": [],
+      "death": "1972-01-06"
+    },
+    "粟裕": {
+      "events": [
+        {
+          "date": "1956-11",
+          "label": "增补为中共中央军事委员会委员。",
+          "sources": [
+            "p7"
+          ]
+        },
+        {
+          "date": "1954-10",
+          "label": "出任中国人民解放军总参谋长。",
+          "sources": [
+            "su"
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "domain": "party",
+          "title": "七届中央委员会候补委员",
+          "tier": 9,
+          "start": "1949-10-01",
+          "end": "1956-09-28",
+          "uncertain": null,
+          "sources": [
+            "p7"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央委员会委员",
+          "tier": 8,
+          "start": "1956-09-28",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "九届中央委员会委员",
+          "tier": 8,
+          "start": "1969-04-28",
+          "end": "1973-08-30",
+          "uncertain": null,
+          "sources": [
+            "p9"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十届中央委员会委员",
+          "tier": 8,
+          "start": "1973-08-30",
+          "end": "1977-08-19",
+          "uncertain": null,
+          "sources": [
+            "p10"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十一届中央委员会委员",
+          "tier": 8,
+          "start": "1977-08-19",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "p11"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "人民革命军事委员会委员",
+          "tier": 4,
+          "start": "1949-10-19",
+          "end": "1954-09-28",
+          "uncertain": null,
+          "sources": [
+            "mil49"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "中央军委委员",
+          "tier": 4,
+          "start": "1956-11",
+          "end": "1959-09-26",
+          "uncertain": null,
+          "sources": [
+            "p7"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "中央军委常委",
+          "tier": 3,
+          "start": "1967-03",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "中央军委委员",
+          "tier": 4,
+          "start": "1959-09-26",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "中央军委常委",
+          "tier": 3,
+          "start": "1975-02-05",
+          "end": "1977-08-19",
+          "uncertain": null,
+          "sources": [
+            "p9",
+            "ye"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "中央军委常委",
+          "tier": 3,
+          "start": "1977-08-19",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "p11"
+          ]
+        }
+      ],
+      "legacy": []
+    },
+    "肖劲光": {
+      "events": [
+        {
+          "date": "1950-01",
+          "label": "出任人民解放军海军司令员；资料也使用“萧劲光”写法。",
+          "sources": [
+            "xiao"
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "domain": "party",
+          "title": "七届中央委员会候补委员",
+          "tier": 9,
+          "start": "1949-10-01",
+          "end": "1956-09-28",
+          "uncertain": null,
+          "sources": [
+            "p7"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央委员会委员",
+          "tier": 8,
+          "start": "1956-09-28",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "九届中央委员会委员",
+          "tier": 8,
+          "start": "1969-04-28",
+          "end": "1973-08-30",
+          "uncertain": null,
+          "sources": [
+            "p9"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十届中央委员会委员",
+          "tier": 8,
+          "start": "1973-08-30",
+          "end": "1977-08-19",
+          "uncertain": null,
+          "sources": [
+            "p10"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十一届中央委员会委员",
+          "tier": 8,
+          "start": "1977-08-19",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "p11"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "中央军委委员",
+          "tier": 4,
+          "start": "1956-11",
+          "end": "1959-09-26",
+          "uncertain": null,
+          "sources": [
+            "p7"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "中央军委委员",
+          "tier": 4,
+          "start": "1959-09-26",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "中央军委委员",
+          "tier": 4,
+          "start": "1977-08-19",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "p11"
+          ]
+        }
+      ],
+      "legacy": []
+    },
+    "许世友": {
+      "events": [
+        {
+          "date": "1968-10-31",
+          "label": "在八届十二中全会上增补为中央委员会委员。",
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "date": "1973",
+          "label": "出任广州军区司令员。",
+          "sources": [
+            "xu"
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "domain": "party",
+          "title": "八届中央委员会候补委员",
+          "tier": 9,
+          "start": "1956-09-28",
+          "end": "1968-10-31",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央委员会委员",
+          "tier": 8,
+          "start": "1968-10-31",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "九届中央政治局委员",
+          "tier": 5,
+          "start": "1969-04-28",
+          "end": "1973-08-30",
+          "uncertain": null,
+          "sources": [
+            "p9"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "九届中央委员会委员",
+          "tier": 8,
+          "start": "1969-04-28",
+          "end": "1973-08-30",
+          "uncertain": null,
+          "sources": [
+            "p9"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十届中央政治局委员",
+          "tier": 5,
+          "start": "1973-08-30",
+          "end": "1977-08-19",
+          "uncertain": null,
+          "sources": [
+            "p10"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十届中央委员会委员",
+          "tier": 8,
+          "start": "1973-08-30",
+          "end": "1977-08-19",
+          "uncertain": null,
+          "sources": [
+            "p10"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十一届中央政治局委员",
+          "tier": 5,
+          "start": "1977-08-19",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "p11"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十一届中央委员会委员",
+          "tier": 8,
+          "start": "1977-08-19",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "p11"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "中央军委委员",
+          "tier": 4,
+          "start": "1977-08-19",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "p11"
+          ]
+        }
+      ],
+      "legacy": []
+    },
+    "陈锡联": {
+      "events": [
+        {
+          "date": "1968-10-31",
+          "label": "在八届十二中全会上增补为中央委员会委员。",
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "date": "1959",
+          "label": "出任沈阳军区司令员。",
+          "sources": [
+            "cx"
+          ]
+        },
+        {
+          "date": "1973-12",
+          "label": "调任北京军区司令员。",
+          "sources": [
+            "cx"
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "domain": "party",
+          "title": "八届中央委员会候补委员",
+          "tier": 9,
+          "start": "1956-09-28",
+          "end": "1968-10-31",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央委员会委员",
+          "tier": 8,
+          "start": "1968-10-31",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "九届中央政治局委员",
+          "tier": 5,
+          "start": "1969-04-28",
+          "end": "1973-08-30",
+          "uncertain": null,
+          "sources": [
+            "p9"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "九届中央委员会委员",
+          "tier": 8,
+          "start": "1969-04-28",
+          "end": "1973-08-30",
+          "uncertain": null,
+          "sources": [
+            "p9"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十届中央政治局委员",
+          "tier": 5,
+          "start": "1973-08-30",
+          "end": "1977-08-19",
+          "uncertain": null,
+          "sources": [
+            "p10"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十届中央委员会委员",
+          "tier": 8,
+          "start": "1973-08-30",
+          "end": "1977-08-19",
+          "uncertain": null,
+          "sources": [
+            "p10"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十一届中央政治局委员",
+          "tier": 5,
+          "start": "1977-08-19",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "p11"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十一届中央委员会委员",
+          "tier": 8,
+          "start": "1977-08-19",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "p11"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "国务院副总理",
+          "tier": 3,
+          "start": "1975-01-17",
+          "end": "1978-03-05",
+          "uncertain": null,
+          "sources": [
+            "g4"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "国务院副总理",
+          "tier": 3,
+          "start": "1978-03-05",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "g5"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "中央军委常委",
+          "tier": 3,
+          "start": "1975-02-05",
+          "end": "1977-08-19",
+          "uncertain": null,
+          "sources": [
+            "p9",
+            "ye"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "中央军委常委",
+          "tier": 3,
+          "start": "1977-08-19",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "p11"
+          ]
+        }
+      ],
+      "legacy": []
+    },
+    "李德生": {
+      "events": [
+        {
+          "date": "1968-04",
+          "label": "开始在安徽担任省军区及革命委员会等领导职务。",
+          "sources": [
+            "ld"
+          ]
+        },
+        {
+          "date": "1975-01-10",
+          "label": "辞去中央副主席、政治局常委职务，保留中央政治局委员职务。",
+          "sources": [
+            "p10",
+            "hist"
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "domain": "party",
+          "title": "九届中央政治局候补委员",
+          "tier": 6,
+          "start": "1969-04-28",
+          "end": "1973-08-30",
+          "uncertain": null,
+          "sources": [
+            "p9"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "九届中央委员会委员",
+          "tier": 8,
+          "start": "1969-04-28",
+          "end": "1973-08-30",
+          "uncertain": null,
+          "sources": [
+            "p9"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "中共中央副主席",
+          "tier": 3,
+          "start": "1973-08-30",
+          "end": "1975-01-10",
+          "uncertain": null,
+          "sources": [
+            "p10",
+            "hist"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十届中央政治局委员",
+          "tier": 5,
+          "start": "1973-08-30",
+          "end": "1977-08-19",
+          "uncertain": null,
+          "sources": [
+            "p10"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十届中央委员会委员",
+          "tier": 8,
+          "start": "1973-08-30",
+          "end": "1977-08-19",
+          "uncertain": null,
+          "sources": [
+            "p10"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十一届中央政治局委员",
+          "tier": 5,
+          "start": "1977-08-19",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "p11"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十一届中央委员会委员",
+          "tier": 8,
+          "start": "1977-08-19",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "p11"
+          ]
+        },
+        {
+          "domain": "military",
+          "title": "中央军委委员",
+          "tier": 4,
+          "start": "1977-08-19",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "p11"
+          ]
+        }
+      ],
+      "legacy": []
+    },
+    "谭震林": {
+      "events": [
+        {
+          "date": "1958-05",
+          "label": "增选为中央政治局委员。",
+          "sources": [
+            "p8"
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "domain": "party",
+          "title": "七届中央委员会委员",
+          "tier": 8,
+          "start": "1949-10-01",
+          "end": "1956-09-28",
+          "uncertain": null,
+          "sources": [
+            "p7"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央政治局委员",
+          "tier": 5,
+          "start": "1958-05",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央书记处书记",
+          "tier": 7,
+          "start": "1956-09-28",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央委员会委员",
+          "tier": 8,
+          "start": "1956-09-28",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十届中央委员会委员",
+          "tier": 8,
+          "start": "1973-08-30",
+          "end": "1977-08-19",
+          "uncertain": null,
+          "sources": [
+            "p10"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十一届中央委员会委员",
+          "tier": 8,
+          "start": "1977-08-19",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "p11"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "全国人大常委会副委员长",
+          "tier": 3,
+          "start": "1975-01-17",
+          "end": "1978-03-05",
+          "uncertain": null,
+          "sources": [
+            "npc"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "全国人大常委会副委员长",
+          "tier": 3,
+          "start": "1978-03-05",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "npc"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "国务院副总理",
+          "tier": 3,
+          "start": "1959-04-28",
+          "end": "1965-01-04",
+          "uncertain": null,
+          "sources": [
+            "g2"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "国务院副总理",
+          "tier": 3,
+          "start": "1965-01-04",
+          "end": "1975-01-17",
+          "uncertain": "1967-02",
+          "sources": [
+            "g3",
+            "hist"
+          ]
+        }
+      ],
+      "legacy": []
+    },
+    "陆定一": {
+      "events": [
+        {
+          "date": "1958-06-10",
+          "label": "中共中央设立文教小组，陆定一任组长。",
+          "sources": [
+            "groups"
+          ]
+        },
+        {
+          "date": "1966-05-08",
+          "label": "开始被软禁，随后长期遭受审查。",
+          "sources": [
+            "lu2"
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "domain": "party",
+          "title": "七届中央委员会委员",
+          "tier": 8,
+          "start": "1949-10-01",
+          "end": "1956-09-28",
+          "uncertain": null,
+          "sources": [
+            "p7"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央政治局候补委员",
+          "tier": 6,
+          "start": "1956-09-28",
+          "end": "1966-05",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央书记处书记",
+          "tier": 7,
+          "start": "1962-09",
+          "end": "1966-08-12",
+          "uncertain": null,
+          "sources": [
+            "p8",
+            "p8a"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央委员会委员",
+          "tier": 8,
+          "start": "1956-09-28",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "国务院副总理",
+          "tier": 3,
+          "start": "1959-04-28",
+          "end": "1965-01-04",
+          "uncertain": null,
+          "sources": [
+            "g2"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "国务院副总理",
+          "tier": 3,
+          "start": "1965-01-04",
+          "end": "1975-01-17",
+          "uncertain": "1966-05-08",
+          "sources": [
+            "g3",
+            "lu2"
+          ]
+        }
+      ],
+      "legacy": []
+    },
+    "李富春": {
+      "events": [
+        {
+          "date": "1975-01-09",
+          "label": "逝世。",
+          "sources": [
+            "p10"
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "domain": "party",
+          "title": "七届中央委员会委员",
+          "tier": 8,
+          "start": "1949-10-01",
+          "end": "1956-09-28",
+          "uncertain": null,
+          "sources": [
+            "p7"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央政治局常委",
+          "tier": 4,
+          "start": "1966-08-12",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8a"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央政治局委员",
+          "tier": 5,
+          "start": "1956-09-28",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央书记处书记",
+          "tier": 7,
+          "start": "1958-05",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央委员会委员",
+          "tier": 8,
+          "start": "1956-09-28",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "九届中央委员会委员",
+          "tier": 8,
+          "start": "1969-04-28",
+          "end": "1973-08-30",
+          "uncertain": null,
+          "sources": [
+            "p9"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十届中央委员会委员",
+          "tier": 8,
+          "start": "1973-08-30",
+          "end": "1977-08-19",
+          "uncertain": null,
+          "sources": [
+            "p10"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "国务院副总理",
+          "tier": 3,
+          "start": "1954-09-27",
+          "end": "1959-04-28",
+          "uncertain": null,
+          "sources": [
+            "g1"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "国务院副总理",
+          "tier": 3,
+          "start": "1959-04-28",
+          "end": "1965-01-04",
+          "uncertain": null,
+          "sources": [
+            "g2"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "国务院副总理",
+          "tier": 3,
+          "start": "1965-01-04",
+          "end": "1975-01-17",
+          "uncertain": null,
+          "sources": [
+            "g3"
+          ]
+        }
+      ],
+      "legacy": [],
+      "death": "1975-01-09"
+    },
+    "乌兰夫": {
+      "events": [
+        {
+          "date": "1954-09-27",
+          "label": "获任命为第一届国务院副总理。",
+          "sources": [
+            "g1"
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "domain": "party",
+          "title": "七届中央委员会候补委员",
+          "tier": 9,
+          "start": "1949-10-01",
+          "end": "1956-09-28",
+          "uncertain": null,
+          "sources": [
+            "p7"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央政治局候补委员",
+          "tier": 6,
+          "start": "1956-09-28",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央委员会委员",
+          "tier": 8,
+          "start": "1956-09-28",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十届中央委员会委员",
+          "tier": 8,
+          "start": "1973-08-30",
+          "end": "1977-08-19",
+          "uncertain": null,
+          "sources": [
+            "p10"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十一届中央政治局委员",
+          "tier": 5,
+          "start": "1977-08-19",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "p11"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十一届中央委员会委员",
+          "tier": 8,
+          "start": "1977-08-19",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "p11"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "中央人民政府委员会委员",
+          "tier": 6,
+          "start": "1949-10-01",
+          "end": "1954-09-27",
+          "uncertain": null,
+          "sources": [
+            "gov49"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "全国人大常委会副委员长",
+          "tier": 3,
+          "start": "1975-01-17",
+          "end": "1978-03-05",
+          "uncertain": null,
+          "sources": [
+            "npc"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "全国人大常委会副委员长",
+          "tier": 3,
+          "start": "1978-03-05",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "npc"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "国务院副总理",
+          "tier": 3,
+          "start": "1954-09-27",
+          "end": "1959-04-28",
+          "uncertain": null,
+          "sources": [
+            "g1"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "国务院副总理",
+          "tier": 3,
+          "start": "1959-04-28",
+          "end": "1965-01-04",
+          "uncertain": null,
+          "sources": [
+            "g2"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "国务院副总理",
+          "tier": 3,
+          "start": "1965-01-04",
+          "end": "1975-01-17",
+          "uncertain": "1966-08",
+          "sources": [
+            "g3"
+          ]
+        }
+      ],
+      "legacy": []
+    },
+    "廖承志": {
+      "events": [
+        {
+          "date": "1978-03-05",
+          "label": "当选第五届全国人大常委会副委员长。",
+          "sources": [
+            "npc",
+            "liao"
+          ]
+        },
+        {
+          "date": "1978-01",
+          "label": "国务院侨务办公室成立，担任主任。",
+          "sources": [
+            "qiao"
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "domain": "party",
+          "title": "七届中央委员会委员",
+          "tier": 8,
+          "start": "1949-10-01",
+          "end": "1956-09-28",
+          "uncertain": null,
+          "sources": [
+            "p7"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "八届中央委员会委员",
+          "tier": 8,
+          "start": "1956-09-28",
+          "end": "1969-04-28",
+          "uncertain": null,
+          "sources": [
+            "p8"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十届中央委员会委员",
+          "tier": 8,
+          "start": "1973-08-30",
+          "end": "1977-08-19",
+          "uncertain": null,
+          "sources": [
+            "p10"
+          ]
+        },
+        {
+          "domain": "party",
+          "title": "十一届中央委员会委员",
+          "tier": 8,
+          "start": "1977-08-19",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "p11"
+          ]
+        },
+        {
+          "domain": "state",
+          "title": "全国人大常委会副委员长",
+          "tier": 3,
+          "start": "1978-03-05",
+          "end": "",
+          "uncertain": null,
+          "sources": [
+            "npc"
+          ]
+        }
+      ],
+      "legacy": []
+    }
+  },
+  "nodes": [
+    {
+      "date": "1949-10-01",
+      "at": "1949-10-01",
+      "label": "中华人民共和国成立",
+      "detail": "中央人民政府就职，政务院总理与人民革命军事委员会主席获任命。",
+      "sources": [
+        "c49"
+      ]
+    },
+    {
+      "date": "1949-10-19",
+      "at": "1949-10-19",
+      "label": "首批中央机构任命",
+      "detail": "中央人民政府委员会通过政务院及人民革命军事委员会相关人事任命。",
+      "sources": [
+        "c49",
+        "mil49"
+      ]
+    },
+    {
+      "date": "1952-11",
+      "at": "1952-11-30",
+      "label": "中央与大区人事调整",
+      "detail": "中央机构和大区部分负责人调整，本期以月末为观察点。",
+      "sources": [
+        "hist"
+      ]
+    },
+    {
+      "date": "1954-02",
+      "at": "1954-02-28",
+      "label": "高饶事件",
+      "detail": "七届四中全会召开，随后对高岗、饶漱石的问题开展审查。",
+      "sources": [
+        "hist"
+      ]
+    },
+    {
+      "date": "1954-09-28",
+      "at": "1954-09-28",
+      "label": "第一届全国人大与军委改组",
+      "detail": "首届国家领导机构产生，党中央决定成立党的军事委员会。",
+      "sources": [
+        "c54",
+        "g1",
+        "npc"
+      ]
+    },
+    {
+      "date": "1955-04",
+      "at": "1955-04-30",
+      "label": "七届五中全会",
+      "detail": "林彪和邓小平补选为中央政治局委员。",
+      "sources": [
+        "p7"
+      ]
+    },
+    {
+      "date": "1956-09-28",
+      "at": "1956-09-28",
+      "label": "八届一中全会",
+      "detail": "产生八届中央领导机构。",
+      "sources": [
+        "p8"
+      ]
+    },
+    {
+      "date": "1958-05",
+      "at": "1958-05-31",
+      "label": "八届五中全会",
+      "detail": "林彪增选为中央副主席和政治局常委。",
+      "sources": [
+        "p8"
+      ]
+    },
+    {
+      "date": "1959-04-28",
+      "at": "1959-04-28",
+      "label": "第二届国务院组成",
+      "detail": "第二届全国人大一次会议决定任命国务院组成人员。",
+      "sources": [
+        "g2",
+        "npc",
+        "head"
+      ]
+    },
+    {
+      "date": "1959-09-17",
+      "at": "1959-09-17",
+      "label": "庐山会议后",
+      "detail": "林彪接任国防部部长。",
+      "sources": [
+        "c59"
+      ]
+    },
+    {
+      "date": "1959-09-26",
+      "at": "1959-09-26",
+      "label": "中央军委调整",
+      "detail": "公布新的中央军委组成人员名单。",
+      "sources": [
+        "c59",
+        "p8"
+      ]
+    },
+    {
+      "date": "1962-09",
+      "at": "1962-09-30",
+      "label": "八届十中全会",
+      "detail": "中央书记处成员发生调整。",
+      "sources": [
+        "p8"
+      ]
+    },
+    {
+      "date": "1965-01-04",
+      "at": "1965-01-04",
+      "label": "第三届国务院组成",
+      "detail": "第三届全国人大一次会议决定任命国务院组成人员。",
+      "sources": [
+        "g3",
+        "npc"
+      ]
+    },
+    {
+      "date": "1966-08-12",
+      "at": "1966-08-12",
+      "label": "八届十一中全会",
+      "detail": "中央领导机构改组，政治局常委和书记处成员调整。",
+      "sources": [
+        "p8a"
+      ]
+    },
+    {
+      "date": "1967-01",
+      "at": "1967-01-31",
+      "label": "文化大革命初期",
+      "detail": "保留原版观察节点，按资料可确认的制度职务列示。",
+      "sources": [
+        "hist"
+      ]
+    },
+    {
+      "date": "1968-10-31",
+      "at": "1968-10-31",
+      "label": "八届十二中全会",
+      "detail": "刘少奇被撤销党内外职务，多名中央候补委员递补。",
+      "sources": [
+        "p8",
+        "hist"
+      ]
+    },
+    {
+      "date": "1969-04-28",
+      "at": "1969-04-28",
+      "label": "九届一中全会",
+      "detail": "产生九届中央领导机构。",
+      "sources": [
+        "p9"
+      ]
+    },
+    {
+      "date": "1971-09-13",
+      "at": "1971-09-13",
+      "label": "九一三事件",
+      "detail": "林彪死亡，相关领导机构随后调整。",
+      "sources": [
+        "p9",
+        "hist"
+      ]
+    },
+    {
+      "date": "1973-08-30",
+      "at": "1973-08-30",
+      "label": "十届一中全会",
+      "detail": "产生十届中央领导机构。",
+      "sources": [
+        "p10"
+      ]
+    },
+    {
+      "date": "1975-01-17",
+      "at": "1975-01-17",
+      "label": "第四届全国人大一次会议",
+      "detail": "产生第四届全国人大常委会和新一届国务院。",
+      "sources": [
+        "g4",
+        "npc"
+      ]
+    },
+    {
+      "date": "1976-04-07",
+      "at": "1976-04-07",
+      "label": "中央政治局决议",
+      "detail": "华国锋任中央第一副主席、国务院总理，邓小平被撤销党内外职务。",
+      "sources": [
+        "hist",
+        "g4",
+        "p10"
+      ]
+    },
+    {
+      "date": "1976-09-09",
+      "at": "1976-09-09",
+      "label": "毛泽东逝世",
+      "detail": "中央委员会和中央军委主席职位出现变动。",
+      "sources": [
+        "hist",
+        "p10",
+        "p9"
+      ]
+    },
+    {
+      "date": "1976-10-06",
+      "at": "1976-10-06",
+      "label": "1976 年 10 月政局变化",
+      "detail": "王洪文、张春桥、江青、姚文元被拘捕，相关职务据名录记至当月。",
+      "sources": [
+        "hist",
+        "p10"
+      ]
+    },
+    {
+      "date": "1976-10-07",
+      "at": "1976-10-07",
+      "label": "华国锋任中央主席",
+      "detail": "中央政治局通过华国锋任中央委员会主席、中央军委主席。",
+      "sources": [
+        "hist",
+        "p10",
+        "p9"
+      ]
+    },
+    {
+      "date": "1977-07-21",
+      "at": "1977-07-21",
+      "label": "十届三中全会结束",
+      "detail": "全会恢复邓小平的党政军职务。",
+      "sources": [
+        "hist",
+        "p10",
+        "p9"
+      ]
+    },
+    {
+      "date": "1977-08-19",
+      "at": "1977-08-19",
+      "label": "十一届一中全会",
+      "detail": "产生十一届中央领导机构。",
+      "sources": [
+        "p11"
+      ]
+    },
+    {
+      "date": "1978-03-05",
+      "at": "1978-03-05",
+      "label": "第五届全国人大一次会议",
+      "detail": "产生新一届全国人大常委会和国务院。",
+      "sources": [
+        "npc",
+        "g5",
+        "country"
+      ]
+    },
+    {
+      "date": "1978-12-22",
+      "at": "1978-12-22",
+      "label": "十一届三中全会结束",
+      "detail": "陈云增选为中央副主席，邓颖超、胡耀邦、王震等进入政治局。",
+      "sources": [
+        "p11",
+        "hist"
+      ]
+    }
+  ],
+  "sources": {
+    "p7": {
+      "title": "七届中央委员会与领导机构名录（正文所载届期）",
+      "url": "https://cpc.people.com.cn/GB/64162/139962/8437280.html"
+    },
+    "p8": {
+      "title": "八届中央委员会与领导机构名录",
+      "url": "https://cpc.people.com.cn/GB/64162/139962/8437279.html"
+    },
+    "p8a": {
+      "title": "八届十一中全会简介",
+      "url": "https://cpc.people.com.cn/GB/64162/64168/64560/65354/4442081.html"
+    },
+    "p9": {
+      "title": "九届中央委员会与领导机构名录",
+      "url": "https://cpc.people.com.cn/GB/64162/139962/8437276.html"
+    },
+    "p10": {
+      "title": "十届中央委员会与领导机构名录",
+      "url": "https://cpc.people.com.cn/GB/64162/139962/8437273.html"
+    },
+    "p11": {
+      "title": "十一届中央委员会与领导机构名录",
+      "url": "https://cpc.people.com.cn/GB/64162/139962/8437272.html"
+    },
+    "npc": {
+      "title": "历届全国人大常委会领导名单",
+      "url": "https://cpc.people.com.cn/daohang/n/2013/0307/c357001-20703934.html"
+    },
+    "head": {
+      "title": "历届中华人民共和国主席、副主席",
+      "url": "https://cpc.people.com.cn/daohang/n/2013/0307/c357001-20703935.html"
+    },
+    "g1": {
+      "title": "第一届国务院总理、副总理名录",
+      "url": "https://politics.cntv.cn/2013/03/12/ARTI1363066309552236_2.shtml"
+    },
+    "g2": {
+      "title": "第二届国务院总理、副总理名录",
+      "url": "https://cpc.people.com.cn/daohang/n/2013/0226/c357262-20606441.html"
+    },
+    "g3": {
+      "title": "第三届国务院总理、副总理名录",
+      "url": "https://politics.cntv.cn/2013/03/12/ARTI1363066309552236_4.shtml"
+    },
+    "g4": {
+      "title": "第四届国务院总理、副总理名录",
+      "url": "https://politics.cntv.cn/2013/03/12/ARTI1363066309552236_5.shtml"
+    },
+    "g5": {
+      "title": "第五届国务院总理、副总理名录",
+      "url": "https://politics.cntv.cn/2013/03/12/ARTI1363066309552236_6.shtml"
+    },
+    "c49": {
+      "title": "中国共产党大事记（1949 年）",
+      "url": "https://cpc.people.com.cn/GB/64162/64164/4416007.html"
+    },
+    "c54": {
+      "title": "中国共产党大事记（1954 年）",
+      "url": "https://cpc.people.com.cn/GB/64162/64164/4416032.html"
+    },
+    "c59": {
+      "title": "中国共产党大事记（1959 年）",
+      "url": "https://cpc.people.com.cn/GB/64162/64164/4416041.html"
+    },
+    "hist": {
+      "title": "中国共产党一百年大事记",
+      "url": "https://cpc.people.com.cn/n1/2021/0628/c64387-32142446.html"
+    },
+    "country": {
+      "title": "中华人民共和国大事记（1949—2019）",
+      "url": "https://www.ccdi.gov.cn/yaowen/201909/t20190927_201391.html"
+    },
+    "mil49": {
+      "title": "新华社 1949 年军委任命电讯（《人民日报》电子转录）",
+      "url": "https://cn.govopendata.com/renminribao/1949/10/20/3/"
+    },
+    "gov49": {
+      "title": "1949 年中央人民政府委员会就职公告（《人民日报》电子转录）",
+      "url": "https://cn.govopendata.com/renminribao/1949/10/02/1/"
+    },
+    "deng": {
+      "title": "邓小平多次担任代总理",
+      "url": "https://cpc.people.com.cn/n1/2019/0110/c69113-30513502.html"
+    },
+    "ye": {
+      "title": "叶剑英大事年表（1970—1979）",
+      "url": "https://cpc.people.com.cn/GB/67481/71472/4854137.html"
+    },
+    "lu": {
+      "title": "陆定一生平",
+      "url": "https://cpc.people.com.cn/daohang/n/2013/0226/c357214-20604991.html"
+    },
+    "lu2": {
+      "title": "陆定一被审查经过",
+      "url": "https://cpc.people.com.cn/BIG5/75289/5831018.html"
+    },
+    "liao": {
+      "title": "廖承志生平",
+      "url": "https://cpc.people.com.cn/daohang/n/2013/0225/c357210-20593652.html"
+    },
+    "xiao": {
+      "title": "萧劲光生平",
+      "url": "https://cpc.people.com.cn/GB/64162/126778/127855/7537125.html"
+    },
+    "song": {
+      "title": "纪念宋庆龄诞辰 130 周年",
+      "url": "https://www.xinhuanet.com/politics/2023-01/29/c_1129318303.htm"
+    },
+    "xu": {
+      "title": "许世友生平",
+      "url": "https://cpc.people.com.cn/GB/64162/126778/127857/7537900.html"
+    },
+    "su": {
+      "title": "粟裕生平",
+      "url": "https://cpc.people.com.cn/GB/64162/126778/127855/7536807.html"
+    },
+    "cx": {
+      "title": "陈锡联生平",
+      "url": "https://www.hbdsw.org.cn/tbgz/cxl/sp/201412/t4589895.shtml"
+    },
+    "ld": {
+      "title": "纪念李德生诞辰 100 周年座谈会",
+      "url": "https://cpc.people.com.cn/n1/2016/0625/c64094-28477774.html"
+    },
+    "women": {
+      "title": "历届全国妇联主席回顾",
+      "url": "https://www.womenofchina.com/flsy/2020/1109/3178.html"
+    },
+    "qiao": {
+      "title": "国务院侨务工作历史资料",
+      "url": "https://qwgzyj.gqb.gov.cn/rdjj/204/3095.shtml"
+    },
+    "groups": {
+      "title": "1958 年中央五小组成立",
+      "url": "https://cpc.people.com.cn/GB/64162/64165/82273/82283/"
+    },
+    "spring": {
+      "title": "纪念蔡畅与妇女运动资料",
+      "url": "https://www.dswxyjy.org.cn/n1/2020/0706/c244523-31772742.html"
+    }
+  }
+}
